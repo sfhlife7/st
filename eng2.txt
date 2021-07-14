@@ -1368,3 +1368,4 @@ A: 거기에 표시해 놨어요.	A: I've already marked them.
 결혼은 모든 이혼의 주요 원인이다	Marriage is the main cause of all divorces.
 사실 그는 시험도 치지 않았다	The fact is that he didn't even take the exam.
 영어는 세계 공통어이며 전 세계적으로 사용되고 있다	English is a universal language and is used all over the world.
+	
