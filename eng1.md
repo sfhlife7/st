@@ -1,8 +1,7 @@
 "1과 예약"	
  "일사천리로 비행기 올라타기.  I'd like to book a flight to New York."
 
-1예약	
-"1.1 뉴욕행 비행편을 예약하려구요.  I'd like to book a flight to New York." 
+1예약	"1.1 뉴욕행 비행편을 예약하려구요.  I'd like to book a flight to New York." 
 A: 노스웨스트 항공사입니다. 뭘 도와드릴까요?	"A: Northwest Airlines. How may I help you?" 
 B: LA에서 뉴욕으로 가는 비행편을 예약하려고 하는데요.	B: I'd like to book a flight to New York from LA. 
 A: 편도로 하시겠습니까, 왕복으로 하시겠습니까?	A: Would that be a one-way or round trip ticket?B 왕복 티켓으로 주세요.	
@@ -15,18 +14,23 @@ B: I want to leave this Friday, and return next Sunday.
 A: 좌석은 어떤 등급으로 하시겠습니까?	A: Which class would you like?  
 B: 보통석으로 부탁해요.	B: Economy class, please. 
 
-2공항	
-"1.2 이름 스펠링이 뭐예요? Would you spell your name, please?"
+2공항	"1.2 이름 스펠링이 뭐예요? Would you spell your name, please?"
 A: 어느 공항으로 들어가실 건가요?	A: Which airport would you like to fly into? 
 B JFK 국제공항이요.	B: JFK International Airport. 
-A: 잠깐만요... 여기 하나 있네요. 5월 4일 오후 5시 45분에 LA를 출발해서, 다음날 새벽 3시 15분에 뉴욕에 도착합니다.	"A: Let me check… Here is a flight. It departs from LA at 5:45 p.m. on May 4th and arrives in Yew York at 3:15 a.m. the next day."    B 제일 저렴한 건가요?	B: Is it the cheapest? 
+A: 잠깐만요... 여기 하나 있네요. 5월 4일 오후 5시 45분에 LA를 출발해서, 다음날 새벽 3시 15분에 뉴욕에 도착합니다.	"A: Let me check… Here is a flight. It departs from LA at 5:45 p.m. on May 4th and arrives in Yew York at 3:15 a.m. the next day."    
+B 제일 저렴한 건가요?	B: Is it the cheapest? 
 A: 물론이죠.	A: Sure. 
 B 좋아요. 그걸로 할게요.	B: OK. I'll take it. 
-A: 성함의 스펠링을 불러 주시겠습니까?	A: Would you spell your name, please? B: 예, 이름은 Kevin, 성은 Lee, K-E-V-I-N-L-E-E.	"B: OK. The first name is Kevin, and the last name is Lee, K-E-V-I-N-L-E-E." 
-3컨펌	"1.3 예약 확인할 수 있을까요? Can I confirm my reservation?"  	A: 예약을 확인할 수 있을까요? 제 예약 번호는 320-404-0985입니다.	"A: Can I confirm my reservation? My reservation number is 320-404-0985."  	B: 예, 5월 4일 뉴욕행 비행기에 예약되어 있네요. 보통석이고요. 비행편은 809입니다. 맞습니까?	"B: OK. You're booked on May 4th for New York. It's an economy class, and the flight number is 809, right?" 
+A: 성함의 스펠링을 불러 주시겠습니까?	A: Would you spell your name, please? 
+B: 예, 이름은 Kevin, 성은 Lee, K-E-V-I-N-L-E-E.	"B: OK. The first name is Kevin, and the last name is Lee, K-E-V-I-N-L-E-E." 
+
+3컨펌	"1.3 예약 확인할 수 있을까요? Can I confirm my reservation?"  	
+A: 예약을 확인할 수 있을까요? 제 예약 번호는 320-404-0985입니다.	"A: Can I confirm my reservation? My reservation number is 320-404-0985."  	
+B: 예, 5월 4일 뉴욕행 비행기에 예약되어 있네요. 보통석이고요. 비행편은 809입니다. 맞습니까?	"B: OK. You're booked on May 4th for New York. It's an economy class, and the flight number is 809, right?" 
 A: 예, 그런데.. 저... 비행 스케줄을 변경할 수 있을까요?	A: Yes, But… Well… can I change my flight schedule? 
 B: 죄송합니다. 이 티켓은 일정이 확정되어 있고, 환불받을 수 없고, 변경할 수도 없는 것입니다. 그래서 그렇게 저렴한 거지요.	B: I'm sorry. This is a fixed, non-refundable and non-change-able ticket. That's why it's so cheap. 
 A: 아, 그렇군요.	A: Oh, I see. 
+
 4창문	"1.4 창문 쪽 좌석이 좋은데요. I'd like a window seat, please." 
 A: 티켓과 여권 좀 주세요.	A: Your ticket and passport, please. 
 B: 여기 있습니다. 창문쪽 좌석으로 부탁합니다.	B: Here you are. I'd like a window seat, please. 
