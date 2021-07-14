@@ -1,12 +1,16 @@
-"1과
- 예약"	"일사천리로 비행기 올라타기.
+"1과 예약"	
+ "일사천리로 비행기 올라타기.
+  I'd like to book a flight to New York."																							
+1예약	
+"1.1 뉴욕행 비행편을 예약하려구요.
  I'd like to book a flight to New York."																							
-1예약	"1.1 뉴욕행 비행편을 예약하려구요.
- I'd like to book a flight to New York."																							
-A: 노스웨스트 항공사입니다. 뭘 도와드릴까요?	"A: Northwest Airlines.
+A: 노스웨스트 항공사입니다. 뭘 도와드릴까요?	
+"A: Northwest Airlines.
  How may I help you?"																							
-B: LA에서 뉴욕으로 가는 비행편을 예약하려고 하는데요.	B: I'd like to book a flight to New York from LA.																							
-A: 편도로 하시겠습니까, 왕복으로 하시겠습니까?	A: Would that be a one-way or round trip ticket?																							
+B: LA에서 뉴욕으로 가는 비행편을 예약하려고 하는데요.	
+B: I'd like to book a flight to New York from LA.																							
+A: 편도로 하시겠습니까, 왕복으로 하시겠습니까?	
+A: Would that be a one-way or round trip ticket?																							
 B 왕복 티켓으로 주세요.	B: Round trip, please.																							
 A: 함께 여행할 일행이 몇 분이나 되시죠?	A: How many people are you traveling with?																							
 B 저 혼잔데요.	B: Only myself.																							
