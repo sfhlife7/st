@@ -1,0 +1,780 @@
+	1	
+메리, 안녕!	大卫 : 玛丽，你好!	dàwèi : mǎlì ， nǐhǎo !
+안녕, 데이빗!	玛丽 : 你好，大卫	mǎlì : nǐhǎo ， dàwèi
+어떻게 지내니?	王兰: 你好吗?	wánglán : nǐhǎo mǎ ?
+잘 지내. 넌 어떻게 지내니?	刘京: 很好。你好吗?	liújīng : hěn hào 。 nǐhǎo mǎ ?
+나도 잘 지내.	王兰: 我也很好。	wánglán : wǒ yě hěn hào 。
+삼	3	
+안녕하십니까!	李老师 : 你早!	lilǎoshī : nǐ zǎo !
+안녕하십니까!	王老师 : 你早!	wánglǎoshī : nǐ zǎo !
+건강은 어떠신지요?	李老师 : 你身体好吗?	lilǎoshī : nǐ shēntǐ hào mǎ ?
+좋습니다. 감사합니다.	王老师 : 很好。谢谢!	wánglǎoshī : hěn hào 。 xièxie !
+너희들 잘 지내고 있니?	张老师 : 你们好吗?	zhānglǎoshī : nǐmenhào mǎ ?
+저희는 모두 잘 지내요. 건강은 어떠세요?	学生A,B : 我们都很好。您身体好吗?	xuésheng A , b : wǒmen dōu hěn hào 。 nín shēntǐ hào mǎ ?
+나도 매우 좋단다. 잘 가거라.	张老师 : 也很好。再见!	zhānglǎoshī : yě hěn hào 。 zàijiàn !
+ 안녕히 가세요.	学生A,B : 再见!	xuésheng A , b : zàijiàn !
+5	5	
+안녕하십니까!	李 : 你好!	lǐ : nǐhǎo !
+안녕하십니까!	张 : 你好! 	zhāng : nǐhǎo ! 
+일이 바쁘십니까?	李 : 你工作忙吗? 	lǐ : nǐ gōngzuò máng mǎ ? 
+매우 바쁩니다. 당신은요?	张 : 很忙。你呢? 	zhāng : hěn máng 。 nǐ ní ? 
+저는 그다지 바쁘지 않습니다.	李 : 我不太忙。 	lǐ : wǒ bùtàimáng 。 
+안녕하세요.	大卫: 您早! 	dàwèi : nín zǎo ! 
+선생님, 안녕하세요!	玛丽: 老师好! 	mǎlì : lǎoshī hào ! 
+여러분 안녕!	张 : 你们好! 	zhāng : nǐmenhào ! 
+선생님 바쁘세요?	大卫: 老师忙吗? 	dàwèi : lǎoshī máng mǎ ? 
+매우 바쁘단다. 너희들은 어떠니?	张 : 很忙。你们呢? 	zhāng : hěn máng 。 nǐmen ní ? 
+저는 바쁘지 않아요.	大卫: 我不忙。 	dàwèi : wǒ bùmáng 。 
+저도 바쁘지 않아요.	玛丽: 我也不忙。 	mǎlì : wǒ yě bùmáng 。 
+리우징, 안녕!	王兰 : 刘京，你好! 	wánglán : liújīng ， nǐhǎo ! 
+안녕!	刘京 : 你好! 	liújīng : nǐhǎo ! 
+아버지와 어머니께서는 건강하시니?	王兰 : 你爸爸，妈妈身体好吗? 	wánglán : nǐ bàba ， māma shēntǐ hào mǎ ? 
+두 분 모두 건강하셔. 고마워!	刘京 : 他们都很好。谢谢! 	liújīng : tāmen dōu hěn hào 。 xièxie ! 
+7	7	
+전 메리라고 하는데요, 성이 어떻게 되세요?	玛丽：我叫玛丽，你姓什么？ 	mǎlì ：wǒ jiào mǎlì ， nǐ xìng shénme ？ 
+제 성은 왕이고, 이름은 왕란이에요.	王兰：我姓王，我叫王兰。 	wánglán ：wǒxìng wáng ， wǒ jiào wánglán 。 
+당신을 알게 되어 매우 기뻐요.	玛丽：认识你，很高兴。 	mǎlì ：rènshi nǐ ， hěn gāoxìng 。 
+저도 당신을 알게 되어 매우 기뻐요.	王兰：认识你，我也很高兴。 	wánglán ：rènshi nǐ ， wǒ yě hěn gāoxìng 。 
+8	8	
+선생님, 성이 어떻게 되세요?	大卫：老师，您贵姓？ 	dàwèi ：lǎoshī ， nín guìxìng ？ 
+내 성은 장이네. 자네 이름은 뭐지?	张 ：我姓张。你叫什么名字？ 	zhāng ：wǒ xìngzhāng 。 nǐ jiào shénme míngzì ？ 
+제 이름은 데이빗입니다. 그녀의 성은 뭐죠?	大卫：我叫大卫。她姓什么？ 	dàwèi ：wǒ jiào dàwèi 。 tā xìng shénme ？ 
+그녀는 왕씨야.	 张 ：她姓王。 	 zhāng ：tā xìng wáng 。 
+그녀는 선생님인가요?	大卫：她是老师吗？ 	dàwèi ：tā shì lǎoshī mǎ ？ 
+그녀는 선생님이 아니고 학생이네.	张 ：她不是老师，她是学生。 	zhāng ：tā bùshì lǎoshī ， tā shì xuésheng 。 
+9	9	
+왕란, 그는 누구니?	玛丽：王兰，他是谁？ 	mǎlì ：wánglán ， tā shì shuí ？ 
+메리구나. 소개해줄게. 이쪽은 우리 오빠야.	王兰：玛丽，我介绍一下儿，这是我哥哥。 	wánglán ：mǎlì ， wǒ jièshào yīxià r ， zhè shì wǒ gēge 。 
+나는 왕린이라고 해. 만나서 반갑다.	王林：我叫王林。认识你，很高兴。 	wánglín ：wǒ jiào wánglín 。 rènshi nǐ ， hěn gāoxìng 。 
+저도 만나뵙게 되어 매우 기뻐요.	玛丽：认识你，我也很高兴。 	mǎlì ：rènshi nǐ ， wǒ yě hěn gāoxìng 。 
+어디에 가니?	王兰：你去哪儿？ 	wánglán ：nǐ qù nǎr ？ 
+북경대학에 가. 어디에 가는데?	玛丽：我去北京大学。你们去哪儿？ 	mǎlì ：wǒ qù běijīngdàxué 。 nǐmen qù nǎr ？ 
+우리는 상점에 가는 길이야.	王林：我们去商店。 	wánglín ：wǒmen qù shāngdiàn 。 
+안녕!	玛丽：再见! 	mǎlì ：zàijiàn ! 
+안녕!	王兰、王林：再见! 	wánglán wánglín ：zàijiàn ! 
+10	10	
+장 선생님 집에 계세요?	和子：张老师在家吗？ 	hézi ：zhānglǎoshī zàijiā mǎ ？ 
+계시는데요. 당신은……	小英：在。您是 ― 	xiǎoyīng ：zai 。 nín shì ― 
+나는 장 선생님의 제자입니다.성은 야마시타이고 이름은 가즈코라고 하는데요. 당신은……	和子：我是张老师的学生，我姓山下，我叫和子。你是 ― 	hézi ：wǒ shì zhānglǎoshī de xuésheng ， wǒxìng shānxià ， wǒ jiào hé zi 。 nǐ shì ― 
+저는 샤우잉이라고 합니다. 장 선생님은 제 아버지시구요. 들어오세요.	小英：我叫小英。张老师是我爸爸。请进! 	xiǎoyīng ：wǒ jiào xiǎoyīng 。 zhānglǎoshī shì wǒ bàba 。 qǐng jìn ! 
+감사합니다!	和子：谢谢! 	hézi ：xièxie ! 
+11	11	
+오늘이 몇 월 몇 일이지?	玛丽：今天几号？ 	mǎlì ：jīntiān jǐhào ？ 
+오늘은 10월 31일이야.	大卫：今天十月三十一号。 	dàwèi ：jīntiān shíyuè sānshiyī hào 。 
+오늘이 목요일이야?	玛丽：今天星期四吗？ 	mǎlì ：jīntiān xīngqīsì mǎ ？ 
+오늘은 목요일이 아니야. 어제가 목요일이었어.	大卫：今天不是星期四，昨天星期四。 	dàwèi ：jīntiān bùshì xīngqīsì ， zuótiān xīngqīsì 。 
+내일이 토요일이구나. 저녁에 넌 뭘 할꺼니?	玛丽：明天星期六。晚上你做什么？ 	mǎlì ：míngtiān xīngqīliù 。 wǎnshàng nǐ zuò shénme ？ 
+편지를 쓰려고. 너는?	大卫：我写信。你呢？ 	dàwèi ：wǒ xiěxìn 。 nǐ ní ？ 
+난 텔레비전이나 볼꺼야.	玛丽：我看电视。 	mǎlì ：wǒ kàndiànshì 。 
+12	12	
+넌 생일이 언제야?	玛丽：你的生日是几月几号？ 	mǎlì ：nǐ de shēngrì shì jǐyuè jǐhào ？ 
+3월 17일이야. 너는?	王兰：三月十七号。你呢？ 	wánglán ：sānyuè shíqīhào 。 nǐ ní ？ 
+5월 9일이야.	玛丽：五月九号。 	mǎlì ：wǔyuè jiǔhào 。 
+4일은 장리잉의 생일이야.	王兰：四号是张丽英的生日。 	wánglán ：sìhào shì zhānglìyīng de shēngrì 。 
+4일이 무슨 요일이지?	玛丽：四号星期几？ 	mǎlì ：sìhào xīngqī jǐ ？ 
+일요일이야.	王兰：星期天。 	wánglán ：xīngqītiān 。 
+넌 그녀의 집에 갈꺼니?	玛丽：你去她家吗？ 	mǎlì ：nǐ qù tājiā mǎ ？ 
+갈꺼야. 넌?	王兰：去。你呢？ 	wánglán ：qù 。 nǐ ní ？ 
+나도 가.	玛丽：我也去。 	mǎlì ：wǒ yě qù 。 
+우리 오전에 가자. 어때?	王兰：我们上午去，好吗？ 	wánglán ：wǒmen shàngwǔ qù ， hào mǎ ？ 
+좋아.	玛丽：好。 	mǎlì ：hào 。 
+13	13	
+리우징, 너희 가족은 몇 명이니?	大卫：刘京，你家有几口人？ 	dàwèi ：liújīng ， nǐjiā yǒu jǐkǒu rén ？ 
+4명이야. 너희 집은?	刘京：四口人 。你家呢？ 	liújīng ：sìkǒu rén 。 nǐjiā ní ？ 
+3명이야. 아버지, 어머니, 그리고 나.	大卫：三口人。爸爸、妈妈和我。 	dàwèi ：sānkǒu rén 。 bàba māma hé wǒ 。 
+너희 아버지는 무슨 일을 하시는데?	刘京：你爸爸做什么工作？ 	liújīng ：nǐ bàba zuò shénme gōngzuò ？ 
+아버지는 선생님이야. 대학에서 학생들을 가르치셔.	大卫：他是老师。他在大学工作。 	dàwèi ：tā shì lǎoshī 。 tā zai dàxué gōngzuò 。 
+가즈코, 너희 가족 성원은 어떻게 되니?	大卫：和子，你家有什么人？ 	dàwèi ：hézi ， nǐjiā yǒu shénme rén ？ 
+아버지와 어머니, 그리고 남동생이 한 명 있어.	和子：爸爸、妈妈和一个弟弟。 	
+남동생은 학생이야?	大卫：你弟弟是学生吗？ 	dàwèi ：nǐ dìdi shì xuésheng mǎ ？ 
+응. 그 애는 영어를 배워.	和子：是。他学习英语。 	hézi ：shì 。 tā xuéxí yīngyǔ 。 
+너희 어머니는 직장에 다니시니?	大卫：你妈妈工作吗？ 	dàwèi ：nǐ māma gōngzuò mǎ ？ 
+안 다니셔.	和子：她不工作 。 	hézi ：tā bù gōngzuò 。 
+14	14	
+너희 가족 성원은 어떻게 되니?	王兰：你家有谁？ 	wánglán ：nǐjiā yǒu shuí ？ 
+아버지와 어머지, 그리고 언니가 있어.	玛丽：爸爸、妈妈、姐姐。 	mǎlì ：bàba māma jiějie 。 
+너희 언니는 직장에 다녀?	王兰：你姐姐工作吗？ 	wánglán ：nǐ jiějie gōngzuò mǎ ？ 
+응. 언니는 은행에서 직원으로 일하고 있어.너희 오빠는 어떤 일을 하시는데?	玛丽：工作。她是职员，在银行工作。你哥哥做什么工作？ 	mǎlì ：gōngzuò 。 tā shì zhíyuán ， zai yínháng gōngzuò 。 nǐ gēge zuò shénme gōngzuò ？ 
+오빠는 의사야.	王兰：他是大夫。 	wánglán ：tā shì dàfū 。 
+결혼했어?	玛丽：他结婚了吗？ 	mǎlì ：tā jiéhūn le mǎ ？ 
+응. 오빠의 부인도 의사야.	王兰：结婚了。他爱人也是大夫。 	wánglán ：jiéhūn le 。 tā àiren yě shì dàfū 。 
+자녀는 있으시니?	玛丽：他们有孩子吗？ 	mǎlì ：tāmen yǒu háizi mǎ ？ 
+없어.	王兰：没有。 	wánglán ：méiyǒu 。 
+15	15	
+지금이 몇 시니?	玛丽：现在几点？ 	mǎlì ：xiànzài jǐdiǎn ？ 
+지금은 7시 25분이야.	王兰：现在七点二十五分。 	wánglán ：xiànzài qīdiǎn èrshíwǔfèn 。 
+너는 몇 시에 수업이 시작하니?	玛丽：你几点上课？ 	mǎlì ：nǐ jǐdiǎn shàngkè ？ 
+8시요	王兰：八点。 	wánglán ：bādiǎn 。 
+교실에는 언제 가는데?	玛丽：你什么时候去教室？ 	mǎlì ：nǐ shénme shíhou qù jiàoshì ？ 
+8시 15분전에 가.	王兰：差一刻八点去。 	wánglán ：chāi yīkè bādiǎn qù 。 
+지금 교실에 가는 거야?	玛丽：现在你去教室吗？ 	mǎlì ：xiànzài nǐ qù jiàoshì mǎ ？ 
+아니, 난 밥 먹으러 가.	王兰：不去，我去吃饭。 	wánglán ：bùqù ， wǒ qù chīfàn 。 
+16	16	
+내일 만리장성에 가는 게 어때?	刘京: 明天去长城，好吗? 	liújīng : míngtiān qù chángchéng ， hào mǎ ? 
+좋아. 언제 갈까?	大卫: 好，什么时候去? 	dàwèi : hào ， shénme shíhou qù ? 
+아침 7시	刘京: 早上七点。 	liújīng : zǎoshang qīdiǎn 。 
+너무 이르잖아. 7시 반에 가자. 넌 몇 시에 일어나니?	大卫: 太早了。七点半吧。你几点起床? 	dàwèi : tàizǎo le 。 qīdiǎn bàn bā 。 nǐ jǐdiǎn qǐchuáng ? 
+6시 반, 너는?	刘京: 六点半。你呢? 	liújīng : liùdiǎnbàn 。 nǐ ní ? 
+나도 6시 반에 일어나.	大卫: 我也六点半起床。 	dàwèi : wǒ yě liùdiǎnbàn qǐchuáng 。 
+17	17	
+넌 어디에 살고 있니?	刘京：你住在哪儿？ 	liújīng ：nǐ zhù zai nǎr ？ 
+유학생 기숙사에 살고 있어.	大卫：住在留学生宿舍。 	dàwèi ：zhù zai liúxuéshēng sùshè 。 
+몇 동인데?	刘京：几号楼？ 	liújīng ：jǐhàolóu ？ 
+9동이야.	大卫：九号楼。 	dàwèi ：jiǔhào lóu 。 
+방은 몇 호실이야?	刘京：多少号房间？ 	liújīng ：duōshǎo hào fángjiān ？ 
+308호실이야. 너희집은 어디에 있어?	大卫：308号房间。你家在哪儿？ 	dàwèi ：308 hào fángjiān 。 nǐjiā zai nǎr ？ 
+우리집은 쉬에위엔로 25호에 있어. 우리집에 놀러 와.	刘京：我家在学院路25号，欢迎你去玩儿。 	liújīng ：wǒjiā zai xuéyuànlù 25 hào ， huānyíng nǐ qù wánr 。 
+감사합니다!	大卫：谢谢! 	dàwèi ：xièxie ! 
+18	18	
+장리잉의 집이 어디에 있니?	大卫：张丽英家在哪儿？ 	dàwèi ：zhānglì yīngjiā zai nǎr ？ 
+나는 모르겠어. 왕란이 알꺼야. 걘 자주 가거든.	玛丽：我不知道。王兰知道。 她常去。 	mǎlì ：wǒ bù zhīdào 。 wánglán zhīdào 。 tā chángqù 。 
+그 애한테 물어볼게.	大卫：好，我去问她。 	dàwèi ：hào ， wǒ qù wèn tā 。 
+왕란, 장리잉의 집이 어디에 있니?	大卫：王兰，张丽英家在哪儿？ 	dàwèi ：wánglán ， zhānglì yīngjiā zai nǎr ？ 
+똥쓰따졔 97호야. 그녀의 집에 가려고?	王兰：东四大街97号。你去她家吗？ 	wánglán ：dōngsì dàjiē 97 hào 。 nǐ qù tājiā mǎ ？ 
+응. 난 내일 걔네 집에 갈꺼야.	大卫：对，明天我去她家。 	dàwèi ：duì ， míngtiān wǒ qù tājiā 。 
+넌 길을 잘 모를테니까 우리 같이 가자.	王兰：你不认识路，我们一起去吧! 	wánglán ：nǐ bù rènshi lù ， wǒmen yīqǐ qù bā ! 
+그러면 정말 좋지!	大卫：那太好了。 	dàwèi ：nà tàihǎole 。 
+19	19	
+실례합니다. 8동이 어디에 있죠?	学生：勞驾，八楼在哪儿？ 	xuésheng ：láojià ， bālóu zai nǎr ？ 
+9동 옆에 있는데요.	刘京：在九楼旁边	liújīng ：zai jiǔlóu pángbiān
+어떻게 가야 하지요?	学生：怎么走？ 	xuésheng ：zěnme zǒu ？ 
+보세요. 저 건물이 바로 8동이에요.	刘京：你看，那个楼就是。 	liújīng ：nǐ kàn ， nàgè lóu jiùshì 。 
+말씀 좀 묻겠습니다. 우체국이 어디에 있나요?	和子：请问，邮局在哪儿？ 	hézi ：qǐngwèn ， yóujú zai nǎr ？ 
+저 앞쪽에 있어요.	 A ：在前边。 	 A ：zai qiánbian 。 
+어떻게 가야 하지요?	和子：怎么走？ 	hézi ：zěnme zǒu ？ 
+이 앞으로 쭉 가세요.	 A ：往前走。 	 A ：wǎngqiánzǒu 。 
+여기에서 멀리 있나요?	和子：离这儿远不远？ 	hézi ：lí zhèr yuǎn bùyuǎn ？ 
+그다지 멀지 않아요. 은행 바로 옆에 있습니다.	 A ：不太远。 就在银行旁边。 	 A ：bùtàiyuǎn 。 jiù zai yínháng pángbiān 。 
+20	20	
+말씀 좀 묻겠습니다. 백화점이 어디에 있어요?	玛丽: 请问，百货大楼在什么地方? 	mǎlì : qǐngwèn ， bǎihuòdàlóu zai shénme dìfāng ? 
+왕푸징에 있어요.	B: 王府井。 	b : wángfǔjǐng 。 
+여기서 먼가요?	玛丽: 远吗? 	mǎlì : yuǎn mǎ ? 
+멀지 않아요.	B: 不远。	b : bùyuǎn 。
+어디에서 타나요?	玛丽: 在哪儿坐汽车? 	mǎlì : zai nǎr zuò qìchē ? 
+저기에서요.	B: 在那儿。 	b : zai nàr 。 
+감사합니다!	玛丽: 谢谢! 	mǎlì : xièxie ! 
+이십 일	21	
+뭘 드릴까요?	售货员：您要什么? 	shòuhuòyuán ：nín yào shénme ? 
+사과를 사려고 하는데요. 한근에 얼마에요?	大卫：我要苹果。多少钱一斤？ 	dàwèi ：wǒyào píngguǒ 。 duōshǎoqián yījīn ？ 
+2위안 5마오 입니다.	售货员：两块五毛。 	shòuhuòyuán ：liǎngkuài wǔmáo 。 
+저건요?	大卫：那种呢？ 	dàwèi ：nàzhǒng ní ？ 
+1위안 3마오 입니다.	售货员：一块三。	shòuhuòyuán ：yīkuài sān 。 
+이걸로 주세요.	要这种吗? 	yào zhèzhǒng mǎ ? 
+얼마나 드릴까요?	要多少？	yào duōshǎo ？ 
+두 근 주세요.	大卫：两斤。 	dàwèi ：liǎngjīn 。 
+또 필요한 것이 있으세요?	售货员：还要别的吗？ 	shòuhuòyuán ：huányào biéde mǎ ？ 
+됐습니다.	大卫：不要了。 	dàwèi ：bùyào le 。 
+스물 둘	22	
+뭘 사시겠습니까?	售货员：您要买什么? 	shòuhuòyuán ：nín yào mǎi shénme ? 
+귤을 사려고 하는데요. 한 근에 얼마예요?	玛丽：我要买橘子。一斤多少钱？ 	mǎlì ：wǒyào mǎi júzi 。 yījīn duōshǎoqián ？ 
+2위안 8마오입니다.	售货员：两块八。 	shòuhuòyuán ：liǎngkuài bā 。 
+너무 비싸네요.	玛丽：太贵了。 	mǎlì ：tàiguì le 。 
+저건 쌉니다.	售货员：那种便宜。 	shòuhuòyuán ：nàzhǒng piányi 。 
+저건 좋은 거예요? 	玛丽：那种好不好？	mǎlì ：nàzhǒng hǎobuhǎo ？
+한 번 드셔보시죠.	售货员：您尝尝。 	shòuhuòyuán ：nín chángcháng 。 
+좋네요. 4개만 주세요.	玛丽：好。我要四个。 	mǎlì ：hào 。 wǒyào sìge 。 
+여기 한 근 반이고, 3위안 7마오 5펀입니다. 또 사실 것이 있으세요? 	售货员：这是一斤半，三块七毛五分。还买别的吗？ 	shòuhuòyuán ：zhèshì yījīn bàn ， sānkuài qīmáo wǔfēn 。 hái mǎi biéde mǎ ？ 
+됐습니다.	玛丽：不要了。 	mǎlì ：bùyào le 。 
+이십 삼	23	
+날씨가 추워지네. 스웨터를 한 벌 사야겠다.	大卫：天冷了。我想买件毛衣。 	dàwèi ：tiānlěng le 。 wǒxiǎng mǎijiàn máoyī 。 
+나도 물건을 사야하는데, 우리 언제 갈까?	玛丽：我也要买东西。我们什么时候去？ 	mǎlì ：wǒ yě yào mǎi dōngxi 。 wǒmen shénme shíhou qù ？ 
+일요일에 가는 게 어때?	大卫：星期天去，怎么样？ 	dàwèi ：xīngqītiān qù ， zěnmeyàng ？ 
+일요일에는 사람이 너무 많아.	玛丽：星期天人太多。 	mǎlì ：xīngqītiān réntàiduō 。 
+그럼 내일 오후에 가자.	大卫：那明天下午去吧。 	dàwèi ：nà míngtiān xiàwǔ qù bā 。 
+이십사	24	
+아가씨, 저 스웨터를 좀 보여주세요.	大卫：小姐，我看看那件毛衣。 	dàwèi ：xiǎojie ， wǒ kànkan nà jiàn máoyī 。 
+그러죠.	售货员：好。 	shòuhuòyuán ：hào 。 
+좀 입어봐도 될까요?	大卫：我可以试试吗？ 	dàwèi ：wǒ kěyǐ shìshi mǎ ？ 
+입어보세요.	售货员：您试一下儿吧。 	shòuhuòyuán ：nín shìyīxià r bā 。 
+너무 짧은데.	玛丽：这件太短了。 	mǎlì ：zhèjiàn tàiduǎn le 。 
+저걸로 입어보시죠.	售货员：您试试那件。 	shòuhuòyuán ：nín shìshi nà jiàn 。 
+그러죠. 다시 입어볼께요.	大卫：好，我再试一下儿。 	dàwèi ：hào ， wǒ zàishìyīxià r 。 
+이건 딱 맞는다.	玛丽：这件不大也不小。 	mǎlì ：zhèjiàn bùdà yě bùxiǎo 。 
+정말 좋은데! 난 이걸로 살래.	大卫：好极了，我就买这件。 	dàwèi ：hàojíle ， wǒ jiù mǎi zhèjiàn 。 
+25	25	
+말씀 좀 묻겠습니다. 이 버스가 톈안먼에 가나요?	玛丽：请问，这路车到天安门吗？ 	mǎlì ：qǐngwèn ， zhèlù chēdào tiānānmén mǎ ？ 
+갑니다. 타세요.	售票员：到。上车吧。 	shòupiàoyuán ：dào 。 shàngchē bā 。 
+표 두 장 주세요. 한 장에 얼마지요?	大卫：买两张票。多少钱一张？ 	dàwèi ：mǎi liǎngzhāng piào 。 duōshǎoqián yīzhāng ？ 
+2위안입니다.	售票员：两块。 	shòupiàoyuán ：liǎngkuài 。 
+여기 5위안이요.	大卫：给你五块钱。 	dàwèi ：gěi nǐ wǔkuài qián 。 
+1위안 받아가세요.	售票员：找你一块。 	shòupiàoyuán ：zhǎo nǐ yīkuài 。 
+실례지만, 톈안먼까지는 몇 정거장 남았습니까?	玛丽：请问，到天安门还有几站? 	mǎlì ：qǐngwèn ， dào tiānānmén háiyǒu jǐzhàn ? 
+세 정거장 남았습니다. 중국어를 할 수 있으세요?	A : 三站。你们会说汉语? 	A : sānzhàn 。 nǐmen huì shuō hànyǔ ? 
+조금 할 줄 알아요.	大卫：会说一点儿。 	dàwèi ：huì shuō yīdiǎnr 。 
+제가 중국어로 하는 말을 알아들을 수 있으세요?	玛丽：我说汉语，你懂吗? 	mǎlì ：wǒ shuō hànyǔ ， nǐ dǒngmǎ ? 
+예. 당신들은 어느 나라 사람이지요?	A : 懂。你们是哪国人? 	A : dǒng 。 nǐmen shì nǎ guórén ? 
+저는 프랑스 사람입니다.	大卫：我是法国人。 	dàwèi ：wǒ shì fǎguórén 。 
+저는 미국 사람이에요.	玛丽：我是美国人。 	mǎlì ：wǒ shì měiguó rén 。 
+톈안먼에 다 왔습니다. 내리세요.	售票员：天安门到了。请下车吧。 	shòupiàoyuán ：tiānānmén dào le 。 qǐng xiàchē bā 。 
+26	26	
+표 한 장 주세요.	大卫：我买一张票。 	dàwèi ：wǒ mǎi yīzhāng piào 。 
+어디까지 가십니까?	售票员：去哪儿？ 	shòupiàoyuán ：qù nǎr ？ 
+ 어언대학에 가요. 갈아타야 하나요	大卫：去语言大学。要换车吗？ 	dàwèi ：qù yǔyán dàxué 。 yào huànchē mǎ ？ 
+갈아타셔야 합니다.	售票员：要换车。	shòupiàoyuán ：yào huànchē 。
+어디에서 갈아타야 하죠?	大卫：在哪儿换车？ 	dàwèi ：zai nǎr huànchē ？ 
+베이징사범대학이요.	售票员：北京师范大学。 	shòupiàoyuán ：běijīngshīfàndàxué 。 
+몇 번으로 갈아타야 합니까?	大卫：换几路车？ 	dàwèi ：huàn jǐlù chē ？ 
+726번으로 갈아타세요.	售票员：换726路。 	shòupiàoyuán ：huàn 726 lù 。 
+표 한 장 얼마예요?	大卫：一张票多少钱? 	dàwèi ：yīzhāng piào duōshǎoqián ? 
+2위안이요.	售票员：两块。 	shòupiàoyuán ：liǎngkuài 。 
+감사합니다.	大卫：谢谢! 	dàwèi ：xièxie ! 
+아니예요.	售票员：不谢。 	shòupiàoyuán ：bùxiè 。 
+27	27	
+돈을 다 써버려서 이제 돈이 없어. 환전하러 가야겠다.	玛丽：钱都花了，我没钱了。我要去换钱。 	mǎlì ：qián dōu huā le ， wǒ méi qián le 。 wǒyào qù huànqián 。 
+듣자니 호텔에서 환전할 수 있다던데.	大卫：听说，饭店里可以换钱。 	dàwèi ：tīngshuō ， fàndiàn lǐ kěyǐ huànqián 。 
+우리 가서 물어보자.	玛丽：我们去问问吧。	mǎlì ：wǒmen qù wènwèn bā 。
+28	28	
+실례합니다. 여기에서 환전할 수 있을까요?	玛丽：请问，这儿能不能换钱？ 	mǎlì ：qǐngwèn ， zhèr néng bùnéng huànqián ？ 
+예. 어느 나라 돈을 갖고 계십니까?	营业员：能。您带的是什么钱？ 	yíngyèyuán ：néng 。 nín dài de shì shénme qián ？ 
+미국 달러인데요.	玛丽：美元。 	mǎlì ：měiyuán 。 
+얼마나 바꿔드릴까요?	营业员：换 多少？ 	yíngyèyuán ：huàn duōshǎo ？ 
+500달러만 바꿔주세요. 1달러가 인민폐로 얼마나 되죠?	玛丽：五百美元。一美元换多少人民币？ 	mǎlì ：wǔbǎi měiyuán 。 yīměiyuán huàn duōshǎo rénmínbì ？ 
+8위안 2마오 7펀입니다. 금액 좀 써주시겠어요? 이름도 써 주시구요.	营业员：八块二毛七。请您写一下儿钱数。再写一下儿名字。 	yíngyèyuán ：bākuài èrmáo qī 。 qǐng nín xiě yīxià érqiánshù 。 zài xiě yīxià r míngzì 。 
+이렇게 쓰면 되나요?	玛丽：这样写，对不对？ 	mǎlì ：zhèyàng xiě ， duì bù duì ？ 
+예, 맞습니다. 여기 있습니다. 한번 세어보세요.	营业员：对。给您钱，请数一数。 	yíngyèyuán ：duì 。 gěi nín qián ， qǐng shùyīshù 。 
+감사합니다.	玛丽：谢谢! 	mǎlì ：xièxie ! 
+너무 늦었어. 빨리 가자.	大卫：时间不早了。我们快走吧! 	dàwèi ：shíjiān bùzǎole 。 wǒmen kuài zǒu bā ! 
+29	29	
+[베이징의 한 우체국에서]	[在北京某邮局] 	[ zai běijīng mǒu yóujú ] 
+기념우표 있어요?	和子：有纪念邮票吗? 	hézi ：yǒu jìniànyóupiào mǎ ? 
+예. 이건 새로 나온 우표입니다.	营业员：有，这是新出的。 	yíngyèyuán ：yǒu ， zhèshì xīnchū de 。 
+좋네요. 두 세트 살께요. 예쁜 걸로 더 없나요?	和子：好。买两套。还有好看的吗? 	hézi ：hào 。 mǎi liǎngtào 。 háiyǒu hǎokàn de mǎ ? 
+한 번 보세요, 이런 종류들은 어떻습니까?	营业员：你看看，这几种怎么样? 	yíngyèyuán ：nǐ kànkan ， zhè jǐzhǒng zěnmeyàng ? 
+제가 고르는 걸 좀 도와주세요.	和子：请你帮我挑挑。 	hézi ：qǐng nǐ bāng wǒ tiāotiāo 。 
+제가 보기엔 이 네 가지가 모두 좋은 것같은데요?	营业员：我看这四种都很好	yíngyèyuán ：wǒ kàn zhè sìzhǒng dōu hěn hào
+그럼 종류별로 한 세트씩 살께요.	和子：那一样买一套吧。 	hézi ：nà yīyàng mǎi yītào bā 。 
+전화카드를 사시겠습니까?	营业员：买电话卡吗? 	yíngyèyuán ：mǎi diànhuàkǎ mǎ ? 
+아니요, 있습니다.	和子：不，我有。 	hézi ：bù ， wǒ yǒu 。 
+30	30	
+이공원 괜찮네	和子：这个公园不错。 	hézi ：zhège gōngyuán bùcuò 。 
+저런 꽃 정말 이뻐	张丽英 : 那种花真好看。 	zhānglìyīng : nàzhǒng huāzhēn hǎokàn 。 
+메리한테 전화해서 오라하자	和子：给玛丽打个电话，叫她来吧。 	hézi ：gěi mǎlì dǎgè diànhuà ， jiào tā lái bā 。 
+에효     내 폰 배터리가 떨어졌어	张丽英 : 哎呀，我的手机没电了。 	zhānglìyīng : āiyā ， wǒ de shǒujī mòdiàn le 。 
+내가걸께	和子：我打吧。 	hézi ：wǒ dǎ bā 。 
+그려        난 음료수 사러갈께	张丽英 : 也好。 我去买点儿饮料。 	zhānglìyīng : yěhǎo 。 wǒ qù mǎidiǎnér yǐnliào 。 
+전화통화 되었냐	张丽英 : 你打通电话了吗? 	zhānglìyīng : nǐ dǎtōng diànhuà le mǎ ? 
+통화 안되써    전화기 꺼져있어	和子：没打通，她关机了。 	hézi ：méi dǎtōng ， tā guānjī le 。 
+31	31	
+너 경극을 본 적이 있니?	玛丽：你看过京剧吗? 	mǎlì ：nǐ kànguò jīngjù mǎ ? 
+본 적 없어.	大卫：没看过。 	dàwèi ：méi kànguò 。 
+아주 재미있다고 하던데.	玛丽：听说很有意思。 	mǎlì ：tīngshuō hěn yǒuyìsi 。 
+난 굉장히 보고 싶어. 너는?	大卫：我很想看，你呢? 	dàwèi ：wǒ hěn xiǎng kàn ， nǐ ní ? 
+나도 꼭 보고 싶어. 어디에서 공연하는지 알아?	玛丽：我也很想看。你知道哪儿演吗? 	mǎlì ：wǒ yě hěn xiǎng kàn 。 nǐ zhīdào nǎr yǎn mǎ ? 
+인민극장에서 항상 공연한대.	大卫：人民剧场常演。 	dàwèi ：rénmínjùchǎng chángyǎn 。 
+그러면 우리 토요일에 보러 가자. 어때?	玛丽：那我们星期六去看，好不好? 	mǎlì ：nà wǒmen xīngqīliù qù kàn ， hǎobuhǎo ? 
+물론 좋지. 내일 내가 표를 사러 갈께.	大卫：当然好。明天我去买票。 	dàwèi ：dāngrán hào 。 míngtiān wǒ qù mǎipiào 。 
+표를 사게 되면 나한테 알려줘.	玛丽：买到票以后告诉我。 	mǎlì ：mǎidào piào yǐhòu gàosu wǒ 。 
+알았어.	大卫：好。 	dàwèi ：hào 。 
+32	32	
+오리구이가 베이징의 유명한 요리라고 하던데	和子：听说，烤鸭是北京的名菜。 	hézi ：tīngshuō ， kǎoyā shì běijīng de míngcài 。 
+난 아직도 못 먹어봤어!	玛丽：我还没吃过呢	mǎlì ：wǒ hái mòchīguò ní
+우리 꼭 가서 먹어보자.	和子：我们应该去尝一尝。 	hézi ：wǒmen yīnggāi qù chángyīcháng 。 
+28일 저녁에 난 시간이 비거든. 너는?	玛丽：二十八号晚上我没事，你呢？ 	mǎlì ：èrshíbā hào wǎnshàng wǒ méishì ， nǐ ní ？ 
+안돼. 친구가 나를 만나러 오기로 했거든.	和子：不行，有朋友来看我。 	hézi ：bùxíng ， yǒu péngyou láikàn wǒ 。 
+30일 저녁은 어때?	玛丽：三十号晚上怎么样? 	mǎlì ：sānshí hào wǎnshàng zěnmeyàng ? 
+괜찮아.	和子：可以。 	hézi ：kěyǐ 。 
+33	33	
+요즘은 날씨가 참 좋다. 우리 놀러 나가자.	张丽英 : 这两天天气很好。我们出去玩儿玩儿吧。 	zhānglìyīng : zhè liǎngtiān tiānqì hěn hào 。 wǒmen chūqù wánr wánr bā 。 
+어디로 놀러 가는 게 좋을까?	和子 : 去哪儿玩儿好呢? 	hézi : qù nǎr wánr hào ní ? 
+북해공원에 가서 꽃구경도 하고 뱃놀이도 하면 정말 좋겠다!	张丽英 : 去北海公园，看看花，划划船，多好啊! 	zhānglìyīng : qù běihǎigōngyuán ， kànkan huā ， huà huáchuán ， duōhào a ! 
+난 지난주에 가봤어. 다른 곳에 가자.	和子 : 上星期我去过了，去别的地方吧。 	hézi : shàngxīngqī wǒ qùguò le ， qù biéde dìfāng bā 。 
+동물원에 가는 건 어때?	张丽英 : 去动物园怎么样? 	zhānglìyīng : qù dòngwùyuán zěnmeyàng ? 
+좋아. 팬더곰도 볼 수 있잖아.	和子 : 行，还可以看看熊貓呢。 	hézi : xíng ， hái kěyǐ kànkan xióngmāo ní 。 
+어떻게 갈까?	张丽英 : 我们怎么去? 	zhānglìyīng : wǒmen zěnme qù ? 
+자전거 타고 가자.	和子 : 骑自行车去吧 	hézi : qí zìxíngchē qù bā 
+34	34	
+너 리청르 아니?	和子 : 你认识李成日吗? 	 hézi : nǐ rènshi lǐchéng rì mǎ ? 
+당연히 알지. 작년에 여기에서 중국어를 배웠었거든.	刘京 : 当然认识。去年他在这儿学过汉语	liújīng : dāngrán rènshi 。 qùnián tā zai zhèr xuéguò hànyǔ
+알고 있어? 그가 내일 베이징에 와.	和子 : 你知道吗? 明天他来北京。 	hézi : nǐ zhīdào mǎ ? míngtiān tālái běijīng 。 
+몰랐어. 오전에 도착한대, 아니면 오후에 도착한대?	刘京 : 不知道。他上午到还是下午到? 	liújīng : bù zhīdào 。 tā shàngwǔ dào háishi xiàwǔ dào ? 
+오후 2시에. 공항으로 마중 나갈거야.	和子 : 下午两点，我去机场接他。 	hézi : xiàwǔ liǎngdiǎn ， wǒ qù jīchǎng jiē tā 。 
+내일 오후에 수업이 없으니까 나도 너랑 같이 갈게.	刘京 : 明天下午没有课，我跟你一起去。 	liújīng : míngtiān xiàwǔ méiyǒu kè ， wǒ gēn nǐ yīqǐ qù 。 
+좋아.	和子 : 好的。 	hézi : hào de 。 
+언제 갈 건데?	刘京 : 什么时候去? 	liújīng : shénme shíhou qù ? 
+1시에 가자.	和子 : 一点吧。 	hézi : yīdiǎn bā 。 
+35	35	
+도쿄발 비행기가 도착했나요?	和子：从东京来的飞机到了吗? 	hézi ：cóng dōngjīng lái de fēijī dào le mǎ ? 
+아직 도착하지 않았습니다.	服务员：还没到。 	fúwùyuán ：hái mòdào 。 
+왜요?	和子：为什么? 	hézi ：wèishénme ? 
+연착되었습니다. 비행기는 지금 상하이에 있습니다.	服务员：晚点了。飞机现在在上海。 	fúwùyuán ：wǎndiǎn le 。 fēijī xiànzài zai shànghǎi 。 
+이륙했나요?	和子：起飞了吗?	hézi ：qǐfēi le mǎ ?
+곧 이륙할 것입니다.	服务员：快要起飞了。 	fúwùyuán ：kuàiyào qǐfēi le 。 
+언제쯤 도착하죠?	和子：什么时候能到? 	hézi ：shénme shíhou néng dào ? 
+아마 3시 반 경이면 도착할 수 있을 것입니다.	服务员：大概三点半能到。 	fúwùyuán ：dàgài sāndiǎn bànnéng dào 。 
+리우징, 우리 우선 가서 물 좀 마시고 조금 있다가 다시 오자.	和子：刘京，我们先去喝点儿水，一会儿再来这儿吧。 	hézi ：liújīng ， wǒmen xiānqù hē diǎnr shuǐ ， yīhuìr zài lái zhèr bā 。 
+36	36	
+봐. 리청르가 왔어.	和子：你看，李成日来了。 	hézi ：nǐ kàn ， lǐchéng rìlái le 。 
+안녕! 오느라고 수고했어.	刘京：你好！路上辛苦了。 	liújīng ：nǐhǎo ！ lùshang xīnkǔ le 。 
+안녕! 리우징, 내가 올 거라는 걸 어떻게 알았어?	李成日：你们好！刘京，你怎么知道我要来? 	lǐchéng rì ：nǐmenhào ！ liújīng ， nǐ zěnme zhīdào wǒyào lái ? 
+가즈코가 가르쳐줬어.	刘京：是和子告诉我的。 	liújīng ：shì hé zi gàosu wǒ de 。 
+마중 나와줘서 고마워.	李成日：感谢你们来接我。 	lǐchéng rì ：gǎnxiè nǐmen láijiē wǒ 。 
+우리 나가자!	和子：我们出去吧! 	hézi ：wǒmen chūqù bā ! 
+잠깐 기다려. 무역회사 사람이 마중 나오기로 했거든.	李成日：等一等，还有贸易公司的人接我呢。 	lǐchéng rì ：děngyīděng ， háiyǒu màoyì gōngsī de rénjiē wǒ ní 。 
+그래. 우린 여기서 널 기다릴께.	刘京：好，我们在这儿等你。 	liújīng ：hào ， wǒmen zai zhèr děng nǐ 。 
+37	37	
+안녕하십니까! 리선생님. 저는 회사의 통역인 왕따니엔이라고 합니다.	王：您好！李先生。我是王大年，公司的翻译。	wáng ：nínhǎo ！ lixiānshēng 。 wǒ shì wángdànián ， gōngsī de fānyì 。
+마중 나와주셔서 감사합니다.	李：谢谢您来接我。 	lǐ ：xièxiènín láijiē wǒ 。 
+천만에요. 오시느라 수고하셨습니다.	王：别客气，路上辛苦了。 	wáng ：bié kèqi ， lùshang xīnkǔ le 。 
+조금도 피곤하지 않습니다. 오는 길은 순조로웠습니다.	李：一点儿也不累，很顺利。 	lǐ ：yīdiǎnr yě bùlèi ， hěn shùnlì 。 
+차는 바깥에 있습니다. 우리가 당신을 호텔까지 모셔다 드리겠습니다.	王：汽车在外边，我们送您去饭店。 	wáng ：qìchē zai wàibian ， wǒmen sòng nín qù fàndiàn 。 
+제 친구 두 명이 같이 있는데요.	李：我还有两个朋友。 	lǐ ：wǒ háiyǒu liǎnggè péngyou 。 
+그럼 함께 가죠.	王：那一起走吧。 	wáng ：nà yīqǐ zǒu bā 。 
+감사합니다.	李：谢谢! 	lǐ ：xièxie ! 
+38	38	
+환영합니다. 리선생님.	经理：欢迎您！李先生。 	jīnglǐ ：huānyíngnín ！ lixiānshēng 。 
+감사합니다.	李：谢谢! 	lǐ ：xièxie ! 
+당신은 중국에 처음 오신 건가요?	经理：您第一次来中国吗? 	jīnglǐ ：nín dìyīcì lái zhōngguó mǎ ? 
+아닙니다. 이전에 온 적이 있습니다. 이것은 저희 사장님께서 당신에게 드리는 편지입니다.	李：不，我以前来过两次。这是我们经理给您的信。 	lǐ ：bù ， wǒ yǐqián láiguò liǎngcì 。 zhèshì wǒmen jīnglǐ gěi nín de xìn 。 
+수고하셨습니다.	经理：麻烦您了。 	jīnglǐ ：máfan nín le 。 
+사장님께 안부를 전해드리라고 하셨습니다.	李：他问您好。 	lǐ ：tā wèn nínhǎo 。 
+감사합니다. 오늘 베이징호텔에서 당신께 저녁식사를 대접하겠습니다.	经理：谢谢。今天我们在北京饭店请您吃晚饭。 	jīnglǐ ：xièxie 。 jīntiān wǒmen zai běijīngfàndiàn qǐng nín chīwǎnfàn 。 
+너무 잘해주셔서 몸둘바를 모르겠습니다.	李：您太客气了，真不好意思。 	lǐ ：nín tài kèqi le ， zhēn bùhǎoyìsi 。 
+시간이 있으십니까?	经理：您有时间吗? 	jīnglǐ ：nín yǒu shíjiān mǎ ? 
+오후에 저는 친구에게 갈 것입니다. 저녁에는 일이 없습니다.	李：下午我去朋友那儿。晚上我没事。 	lǐ ：xiàwǔ wǒ qù péngyou nàr 。 wǎnshàng wǒ méishì 。 
+우리가 당신을 모시러 가겠습니다.	经理：我们去接您。 	jīnglǐ ：wǒmen qù jiē nín 。 
+괜찮습니다. 택시를 타면 됩니다. 친구네 집에서 가겠습니다.	李：不用了，我可以打的，从朋友那儿去。	lǐ ：bùyòng le ， wǒ kěyǐ dǎ de ， cóng péngyou nàr qù 。
+39	39	
+리선생님, 여기 앉으세요.	翻译：李先生，请这儿坐。 	fānyì ：lixiānshēng ， qǐng zhèr zuò 。 
+감사합니다.	李：谢谢! 	lǐ ：xièxie ! 
+요즘 어떻게 지내십니까?	经理：这两天过得怎么样? 	jīnglǐ ：zhè liǎngtiān guòdé zěnmeyàng ? 
+아주 즐겁게 지내고 있습니다.	李：过得很愉快。 	lǐ ：guòdé hěn yúkuài 。 
+어떤 술을 좋아하시죠?	翻译：您喜欢喝什么酒? 	fānyì ：nín xǐhuān hē shénme jiǔ ? 
+맥주로 하겠습니다.	李：啤酒吧	lǐ ：píjiǔ bā
+이 요리를 드셔보니까 어떠신지요?	经理：您尝尝这个菜怎么样? 	jīnglǐ ：nín chángcháng zhège cài zěnmeyàng ? 
+정말 맛있네요.	李：很好吃。 	lǐ ：hěn hàochī 。 
+사양말고 드십시오.	经理：吃啊，别客气。 	jīnglǐ ：chī a ， bié kèqi 。 
+그럼 잘 먹겠습니다.	李：不客气	lǐ ：bù kèqi
+자, 우리의 우정을 위해 건배합시다!	经理：来，为我们的友谊干杯! 	jīnglǐ ：lái ， wei wǒmen de yǒuyì gānbēi ! 
+모두의 건강을 위해서 건배!	翻译：为大家的健康干杯! 	fānyì ：wei dàjiā de jiànkāng gānbēi ! 
+건배!	李 : 干杯！ 	lǐ : gānbēi ！ 
+40	40	
+우리 술 먼저 마시자.	刘京：我们先喝酒吧。 	liújīng ：wǒmen xiān hējiǔ bā 。 
+이 생선은 정말 맛있게 요리되었네요.	李成日：这个鱼做得真好吃。 	lǐchéng rì ：zhège yú zuò de zhēn hàochī 。 
+집에서처럼 편하게 먹어요.	刘母：你们别客气，像在家一样。 	liúmǔ ：nǐmen bié kèqi ， xiàng zàijiā yīyàng 。 
+잘 먹겠습니다.	李成日：我们不客气。 	lǐchéng rì ：wǒmen bù kèqi 。 
+만두 좀 드세요.	刘母：吃饺子吧。 	liúmǔ ：chījiǎozi bā 。 
+전 만두 먹는 걸 제일 좋아해요.	和子：我最喜欢吃饺子了。 	hézi ：wǒ zuì xǐhuān chījiǎozi le 。 
+듣자하니 일본요리를 아주 잘 만든다면서?	刘京：听说你很会做日本菜。 	liújīng ：tīngshuō nǐ hěnhuì zuò rìběn cài 。 
+아니야. 잘 못해.	和子：哪儿啊，我做得不好。 	hézi ：nǎr a ， wǒ zuò de bùhǎo 。 
+왜 더 안 먹어?	刘京：你怎么不吃了? 	liújīng ：nǐ zěnme bùchī le ? 
+난 배부르게 먹었어. 너희들은 천천히 먹어.	和子：吃饱了。你们慢吃。 	hézi ：chībǎo le 。 nǐmen mànchī 。 
+41.	41	Loading...
+여보세요. 북대 중문과죠?	玛丽：  喂，北大中文系吗？	mǎlì ：     wèi ， běidàzhōngwénxì mǎ ？
+예, 중문과입니다. 어느 분을 찾으세요?	中文系：对，我是中文系。您找哪位？	zhōngwénxì ： duì ， wǒ shì zhōngwénxì 。 nín zhǎo nǎwèi ？
+리홍교수님 계십니까?	玛丽：  李红老师在吗 ?	mǎlì ：     lihóng lǎoshī zai mǎ   ?
+안 계십니다. 아래층에서 복사하고 계십니다. 무슨 일로 찾으시는데요?	中文系：不在。她在楼下复印呢。 您找他有什么事? 	zhōngwénxì ： bùzài 。 tā zai lóuxià fùyìn ní 。   nín zhǎo tā yǒu shénme shì ?  
+돌아오시면 저에게 전화 좀 부탁드린다고 전해주시겠습니까? 저는 메리라고 합니다.	玛丽：  她回来以后，请她给我回个电话。我叫玛丽。	mǎlì ：     tā huílai yǐhòu ， qǐng tā gěi wǒ huígè diànhuà 。 wǒ jiào mǎlì 。
+알겠습니다. 꼭 전해드리겠습니다. 선생님께서 당신의 전화를 아십니까?	中文系：好，我一定转告她。她知道您的电话了吗? 	zhōngwénxì ： hào ， wǒ yīdìng zhuǎngào tā 。 tā zhīdào nín de diànhuà le mǎ ?  
+아십니다. 감사합니다.	玛丽：  知道，谢谢 !	mǎlì ：     zhīdào ， xièxie   !
+별말씀을요.	中文系：不客气。	zhōngwénxì ： bù kèqi 。
+42	42	
+여보세요? 메리니? 방금 네가 나에게 전화했어?	李红: 喂，玛丽吗? 刚才你给我打电话了 ?	lihóng :   wèi ， mǎlì mǎ ?   gāngcái nǐ gěi wǒ dǎdiànhuà le   ?
+응, 지금 뭐하고 있어?	玛丽： 是啊，现在你做什么呢 ?	mǎlì ：   shì a ， xiànzài nǐ zuò shénme ní   ?
+쉬고 있어.	李红: 在休息呢。	lihóng :   zai xiūxi ní 。
+알려줄게, 내일 저녁에 크리스마스파티가 있어, 참가해.	玛丽： 告诉你，明天晚上有个圣诞节晚会，请你参加。	mǎlì ：   gàosu nǐ ， míngtiān wǎnshàng yǒugè shèngdànjié wǎnhuì ， qǐng nǐ cānjiā 。
+그래, 꼭 갈게.	李红: 好，我一定去。	lihóng :   hào ， wǒ yīdìng qù 。
+저녁 8 시야. 내가 우의호텔 입구에서 기다릴게.	玛丽： 晚上八点，我在友谊宾馆门口等你。	mǎlì ：   wǎnshàng bādiǎn ， wǒ zai yǒuyì bīnguǎn ménkǒu děng nǐ 。
+왕선생님도 가시니?	李红: 王老师也去吗?	lihóng :   wánglǎoshī yě qù mǎ ?
+가셔, 남편분과 함께 가셔.	玛丽： 去，跟她先生一起去	mǎlì ：   qù ， gēn tā xiānsheng yīqǐ qù
+너무 잘됐다.	李红: 那好极了 !	lihóng :   nà hàojíle   !
+43	43	
+내가 표 두장을 샀거든. 연극 보러 가자.	丽英：我买了两张票。请你看话剧。	lìyīng ： wǒ mǎi le liǎngzhāng piào 。 qǐng nǐ kàn huàjù 。
+ 그래? 언제 하는 건데?	玛丽：是吗？ 什么时候的？ 	mǎlì ： shì mǎ ？   shénme shíhou de ？  
+ 오늘 저녁 7 시 15 분이야.	丽英：今天晚上七点一刻的。	lìyīng ： jīntiān wǎnshàng qīdiǎn yīkè de 。
+어휴! 정말 공교롭게도 나는 갈 수가 없어. 내일이 시험이어서 저녁에 복습을 해야 하거든.	玛丽：哎呀! 真不巧，我不能去。明天就考试了，晚上要复习。	mǎlì ： āiyā !   zhēn bùqiǎo ， wǒ bùnéng qù 。 míngtiān jiù kǎoshì le ， wǎnshàng yào fùxí 。
+ 그런 다음에 다시 얘기하자.	丽英：那就以后再说吧	lìyīng ： nà jiù yǐhòu zàishuō bā
+44	44	
+내일 그림전시회가 있는데 넌 갈 수 있니?	王兰：明天有个画展，你能去吗？	wánglán ： míngtiān yǒugè huàzhǎn ， nǐ néng qù mǎ ？
+정말 가고 싶은데, 내일은 약속이 있어.	大卫：我很想去，可是明天有个约会	dàwèi ： wǒ hěn xiǎng qù ， kěshì míngtiān yǒugè yuēhuì
+왜? 여자친구랑 데이트해?	王兰：怎么？ 是跟女朋友约会吗？	wánglán ： zěnme ？   shì gēn nǚpéngyou yuēhuì mǎ ？
+아니야. 친구가 나를 보러 오기로 해서 그 애를 기다려야 해.	大卫：不是，有个同学来看我，我要等他。	dàwèi ： bùshì ， yǒugè tóngxué láikàn wǒ ， wǒyào děng tā 。
+그 애도 베이징에서 공부하고 있어?	王兰：他也在北京学习吗？	wánglán ： tā yě zai běijīng xuéxí mǎ ？
+아니야. 막 프랑스에서 왔어. 우리는 꽤 여러 해 동안 만나지 못했어.	大卫：不，刚从法国来。 我们好几年没见面了。	dàwèi ： bù ， gāng cóng fǎguó lái 。   wǒmen hǎojǐnián méi jiànmiàn le 。
+그 애랑 같이 놀아야겠구나.	王兰：你应该陪他玩儿玩儿	wánglán ： nǐ yīnggāi péi tā wánr wánr
+이번 주에는 시간이 없어. 다음 주에 그림전시회를 보러 가자. 괜찮겠어?	大卫：这星期我没空儿，下星期我们再去看画展，可以吗？	dàwèi ： zhè xīngqī wǒ méi kòngr ， xiàxīngqī wǒmen zài qù kàn huàzhǎn ， kěyǐ mǎ ？
+다시 물어보고 나중에 너에게 알려줄게.	王兰：我再问问，以后告诉你。	wánglán ： wǒ zài wènwèn ， yǐhòu gàosu nǐ 。
+좋아.	大卫：好。	dàwèi ： hào 。
+45	45	
+미안해, 오래 기다렸지?	大卫：对不起，让你久等了。	dàwèi ： duìbuqǐ ， ràng nǐ jiǔděng le 。
+8 시에 약속했는데 왜 8 시 반이 되서야 온거야?	玛丽：我们约好八点，你怎么八点半才来？	mǎlì ： wǒmen yuē hào bādiǎn ， nǐ zěnme bādiǎnbàn cái lái ？
+늦게 와서 정말 미안해. 오는 길에 자전거가 고장났어.	大卫：真抱歉，我来晚了。半路上我的自行车坏了。	dàwèi ： zhēn bàoqiàn ， wǒlái wǎn le 。 bànlùshàng wǒ de zìxíngchē huài le 。
+다 고쳤어?	玛丽：修好了吗？	mǎlì ： xiū hàolemǎ ？
+응	大卫：修好了	dàwèi ： xiūhǎo le
+네가 안 오는 줄 알았어.	玛丽：我想你可能不来了。	mǎlì ： wǒ xiǎng nǐ kěnéng bùlái le 。
+그럴 리가. 내가 어떻게 안 올 수가 있겠니? 	大卫：说好的，我怎么能不来呢？	dàwèi ： shuōhǎo de ， wǒ zěnme néngbùlái ní ？
+우리 빨리 극장에 들어가자.	玛丽：我们快进电影院去吧。	mǎlì ： wǒmen kuàijìn diànyǐngyuàn qù bā 。
+그래.	大卫：好。	dàwèi ： hào 。
+46	46	
+리우징, 네 사전을 돌려줄게. 너무 오랫동안 썼지. 미안해	玛丽 : 刘京，还你词典，用的时间太长了, 请原谅!	mǎlì   :   liújīng ， hái nǐ cídiǎn ， yòng de shíjiān tàicháng le ,   qǐngyuánliàng !
+괜찮아. 네가 써.	刘京 : 没关系，你用吧	liújīng   :   méiguānxi ， nǐ yòng bā
+고맙지만 안 써도 돼. 나 일요일에 새 소설을 한 권 샀어.	玛丽 : 谢谢，不用了。星期日我买到一本新小说。	mǎlì   :   xièxie ， bùyòng le 。 xīngqīrì wǒ mǎi dào yìběn xīn xiǎoshuō 。
+영문으로 된 거니, 아니면 중문으로 된 거니?	刘京 : 英文的还是中文的?	liújīng   :   yīngwén de háishi zhōngwén de ?
+영문으로 된 거야. 아주 재미있어.	玛丽 : 英文的。很有意思。	mǎlì   :   yīngwén de 。 hěn yǒuyìsi 。
+내가 읽고 이해할 수 있을까?	刘京 : 我能看懂吗? 	liújīng   :   wǒ néngkàndǒng mǎ ?  
+넌 영어공부를 열심히 했으니까 이해할 수 있을거야.	玛丽 : 你英文学得不错，我想能看懂。	mǎlì   :   nǐ yīng wénxué de bùcuò ， wǒ xiǎng néngkàndǒng 。
+그러면 내가 좀 보게 빌려줄 수 있겠니?	刘京 : 那借我看看，行吗?	liújīng   :   nàjiè wǒ kànkan ， xíng mǎ ?
+당연히 되지.	玛丽 : 当然，可以。	mǎlì   :   dāngrán ， kěyǐ 。
+47	47	
+내가 이틀 없었는데 바닥이 왜 엉망징창이지?	尼娜 : 我两天不在，地上怎么乱七八糟的? 	nínà   :   wǒ liǎngtiān bùzài ， dìshang zěnme luànqībāzāo de ?  
+네가 출장갈 때 창문을 안 닫은 거 아니야? 어제 바람이 셌어.	丽英 : 是不是你出差没关窗户? 昨天的风很大。	lìyīng   :   shìbùshì nǐ chūchāi méi guānchuānghù ?   zuótiān de fēng hěndà 。
+아이쿠, 닫는 걸 깜빡했다. 야단났네.	尼娜 : 哎呀，忘关了，真糟糕!	nínà   :   āiyā ， wàngguān le ， zhēnzāogāo !
+앞으로는 나갈 때 꼭 창문을 잘 닫아야 돼.	丽英 : 以后出门一定要关好窗户。	lìyīng   :   yǐhòu chūmén yīdìng yàoguān hào chuānghù 。
+봐, 꽃병도 깨졌어.	尼娜 : 你看，花瓶也摔碎了	nínà   :   nǐ kàn ， huāpíng yě shuǎisuì le
+데이빗이 너에게 선물한 그거야?	丽英 : 是大卫送给你的那个吗? 	lìyīng   :   shì dàwèi sònggěi nǐ de nàgè mǎ ?  
+응, 그가 내 생일선물로 준거야.	尼娜 : 是，那是他给我的生日礼物。	nínà   :   shì ， nà shì tā gěi wǒ de shēngrilǐwù 。
+너무 아깝다.	丽英 : 太可惜了。	lìyīng   :   tài kěxī le 。
+48	48	
+어제 리청르가 귀국했어.	刘京：昨天李成日回国了	liújīng ： zuótiān lǐchéng rì huíguó le
+난 왜 몰랐지?	和子：我怎么不知道？	hézi ： wǒ zěnme bù zhīdào ？
+회사에 급한 일이 있어서 그에게 즉시 귀국하라고 했대.	刘京：公司有急事，让他马上回国。	liújīng ： gōngsī yǒu jíshì ， ràng tā mǎshàng huíguó 。
+정말 공교롭구나. 난 일이 있어서 그를 찾고 있는데.	和子：真不巧，我还有事找他呢。	hézi ： zhēn bùqiǎo ， wǒ háiyǒu shì zhǎo tā ní 。
+어제 나와 그 애 모두 너에게 전화를 걸었었는데, 네가 없더라구.	刘京：昨天我和他都给你打电话了。 你不在	liújīng ： zuótiān wǒ hé tā dōu gěi nǐ dǎdiànhuà le 。   nǐ bùzài
+난 장선생님댁에 있었어.	和子：我在张老师那儿。	hézi ： wǒ zai zhānglǎoshī nàr 。
+그가 자주 연락하라고 너에게 전해달래.	刘京：他让我告诉你，多跟他联系	liújīng ： tā ràng wǒ gàosu nǐ ， duō gēn tā liánxì
+그를 보지 못해서 정말 유감이다.	和子：真遗憾，我没见到他。	hézi ： zhēnyíhàn ， wǒ méi jiàndào tā 。
+49	49	
+너의 방은 인테리어가 정말 잘 되어있구나!	王兰：你的房间布置得好极了。	wánglán ： nǐ de fángjiān bùzhì de hàojíle 。
+무슨, 그냥 그렇지.	玛丽：哪儿啊，马马虎虎。	mǎlì ： nǎr a ， mǎmahūhū 。
+책상을 이 곳에 놓으니까 글씨를 쓰거나 책을 읽기에 아주 좋은 것 같아.	王兰：桌子放在这儿，写字看书都很好。	wánglán ： zhuōzi fàngzài zhèr ， xiězì kànshū dōu hěn hào 。
+네가 보기에 옷장을 침대 옆으로 놓으니까 어떠니?	玛丽：你看，衣柜放在床旁边，怎么样？	mǎlì ： nǐ kàn ， yīguì fàngzài chuáng pángbiān ， zěnmeyàng ？
+아주 좋아. 물건을 꺼내기도 편하고. 이 그림은 정말 아름답다!	王兰：很好。拿东西很方便。这张画儿真美 	wánglán ： hěn hào 。 ná dōngxi hěn fāngbiàn 。 zhèzhāng huàr zhēn měi  
+그래? 산지 얼마 안됐어.	玛丽：是吗？ 刚买的。	mǎlì ： shì mǎ ？   gāngmǎi de 。
+네 방은 깨끗하고 예쁘구나. 오늘 누가 오니?	王兰：你的房间又干净又漂亮。今天谁来啊？	wánglán ： nǐ de fángjiān yòu gānjìng yòu piàoliang 。 jīntiān shuí lái a ？
+아무도 안 와. 곧 새해가 되니까.	玛丽：没有人来。新年快到了。	mǎlì ： méiyǒu rénlái 。 xīnnián kuaidào le 。
+아. 내일 저녁에 댄스파티가 있어.	王兰：啊! 明天晚上有舞会。	wánglán ： a !   míngtiān wǎnshàng yǒu wǔhuì 。
+정말? 그럼 우리 내일 저녁에 같이 춤추러 가자.	玛丽：真的？那明天晚上我们都去跳舞吧。	mǎlì ： zhēnde ？ nà míngtiān wǎnshàng wǒmen dōu qù tiàowǔ bā 。
+50	50	
+너 오늘 정말 예쁘게 입었구나!	王兰：你今天穿得真漂亮!	wánglán ： nǐ jīntiān chuān de zhēn piàoliang !
+그래? 새해가 되었잖아. 네 옷이 더 예쁜데. 어디서 산거야?	玛丽：是吗？过新年了嘛。你的衣服更漂亮，在哪儿买的？	mǎlì ： shì mǎ ？ guò xīnnián le ma 。 nǐ de yīfú gēng piàoliang ， zai nǎr mǎi de ？
+산 게 아니라 우리 엄마가 만들어 주신 거야.	王兰：不是买的，是我妈妈做的	wánglán ： bùshì mǎi de ， shì wǒ māma zuò de
+너희 어머님은 정말 손재주가 좋으시구나. 옷의 스타일도 아주 좋고.	玛丽：你妈妈的手真巧，衣服的样子也很好。	mǎlì ： nǐ māma de shǒu zhēnqiǎo ， yīfú de yàngzi yě hěn hào 。
+나도 좋다고 생각해.	王兰：我也觉得不错。	wánglán ： wǒ yě juéde bùcuò 。
+난 이색이 정말 좋은데.	刘京：我很喜欢这个颜色。	liújīng ： wǒ hěn xǐhuān zhège yánsè 。
+ 네가 좋아한다면 네 여자친구에게 한 벌 만들어 줘. 	玛丽：要是你喜欢，就给你女朋友做一件。 	mǎlì ： yàoshi nǐ xǐhuān ， jiù gěi nǐ nǚpéngyou zuò yījiàn 。  
+난 아직 여자 친구가 없는 걸.	刘京：我还没有女朋友呢。	liújīng ： wǒ hái méiyǒu nǚpéngyou ní 。
+51.	51	
+이번 시험의 성적은 어때?	这次考试成绩怎么样？	zhècì kǎoshìchéngjì zěnmeyàng ？
+그런대로 괜찮아. 필기시험은 90점을 받았고 구술시험은 85점이야.	还可以。笔试九十分，口试八十五分。	hái kěyǐ 。 bǐshì jiǔ shífēn ， kǒushì bāshí wǔfēn 。
+너 알고 있니? 그의 성적이 반 전체에서 1등이야.	你知道吗？他的成绩全班第一。	nǐ zhīdào mǎ ？ tā de chéngjì quánbān dìyī 。
+시험을 정말 잘 봤구나. 축하해.	考得真好，祝贺你!	kǎode zhēnhǎo ， zhùhè nǐ !
+메리도 시험 잘 봤어.	玛丽也考得不错。	mǎlì yě kǎode bùcuò 。
+리우징과 왕란이 도와준데 대해 고마워해야지.	这要感谢刘京和王兰的帮助。	zhèyào gǎnxiè liújīng hé wánglán de bāngzhù 。
+52.	52	
+왕란, 생일 축하해!	王兰，祝你生日快乐!	wánglán ， zhù nǐ shēngrìkuàilè !
+우리가 너에게 생일 케이크를 가져왔어. 항상 건강하길 바래!	我们送你一个生日蛋糕。祝你身体健康!	wǒmen sòng nǐ yīgè shēngridàngāo 。 zhù nǐ shēntǐjiànkāng !
+고마워.	谢谢!	xièxie !
+이건 내가 너에게 주는 꽃이야.	这是我给你的花儿。	zhè shì wǒ gěi nǐ de huār 。
+이 꽃들 정말 예쁘다.	这些花儿真漂亮。	zhèxiē huār zhēn piàoliang 。
+니나는 일이 있어서 못 오고, 네 생일 축하한대.	尼娜有事来不了，她祝你生日愉快。	nínuó yǒushì lái buliǎo ， tā zhù nǐ shēngrì yúkuài 。
+고마워, 모두들 앉아.	谢谢! 大家请坐。	xièxie !   dàjiā qǐng zuò 。
+너에게 선물을 하나 가져왔어. 받아	我送你一件礼物，请收下。	wǒ sòng nǐ yījiàn lǐwù ， qǐng shōuxià 。
+그녀가 뭘 줬을지 알아맞춰봐.	你知道她送的什么吗?	nǐ zhīdào tā sòng de shénme mǎ ?
+모르겠는데.	不知道。	bù zhīdào 。
+상자를 열어봐.	你打开盒子看看。	nǐ dǎkāi hézi kànkan 。
+아, 강아지네.	啊，是一只小狗。	a ， shì yīzhī xiǎogǒu 。
+이거 정말 귀엽다.	这个小东西多可爱啊!	zhège xiǎodōngxī duō kěài a !
+53.	53	
+장 선생님. 왜 그러세요?	老张，你怎么了？	lǎozhāng ， nǐ zěnme le ？
+별 거 아니에요. 기침을 좀 하는 것뿐이에요	没什么，有点儿咳嗽	méishénme ， yǒudiǎnr késou
+담배피우지마세요	你别抽烟了。	nǐbié chōuyān le 。
+매일 피우는 양이 많지 않아요.	我每天抽得不多。	wǒ měitiān chōude bù duō 。
+그건 건강에 좋지 안아요， 그렇지만 불편하거든요	那对身体也不好。我想不抽，可是觉得不舒服。	nà duì shēntǐ yě bùhǎo 。 wǒ xiǎng bù chōu ， kěshì juéde bù shūfu 。
+시간이 많이 지나가면 익숙해질 거에요	时间长了就习惯了。	shíjiān cháng le jiù xíguàn le 。
+좋아요, 한번 시도해볼게요. 오늘은 우선 약을 좀 먹어야겠어요	好，我试试。今天吃点儿药。	hào ， wǒ shìshi 。 jīntiān chī diǎnr yào 。
+병원에 가보도록 하세요	你去医院看看吧	nǐ qù yīyuàn kànkan ba
+54.	54	
+너는 차를 너무 빠르게 운전하는 구나. 이러면 위험하잖아	你开车开得太快了。这样不安全。	nǐ kāichē kāide tàikuài le 。 zhèyàng bù ānquán 。
+일이 있어서 빨리 가야 해	我有事，得快点儿去。	wǒ yǒushì ， de kuàidiǎnr qù 。
+그래도 이렇게 빠르게 달리면 안 돼	那也不能开得这么快。	nà yě bùnéng kāi de zhème kuài 。
+괜찮아. 난 운전 기술이 좋거든	没关系。我开车的技术好。	méiguānxi 。 wǒ kāichē de jìshù hào 。
+빠르게 운전하면 사고가 나기 쉬워. 어제 칭화대학교에서 교통사고가 났어	开快了容易出事故。昨天清华大学前边出交通事故了。	kāikuài le róngyì chū shìgù 。 zuótiān qīnghuádàxué qiánbian chū jiāotōngshìgù le 。
+정말	真的吗？	zhēnde mǎ ？
+넌 안전에 주의해야 해	你得注意安全啊！	nǐ de zhùyìānquán a ！
+좋아. 앞으로는 차를 빨리 몰지 않을게.	好。我以后不开快车了。	hào 。 wǒ yǐhòu bù kāikuàichē le 。
+55.	55	
+오늘은 날씨가 정말 춥다.	今天天气真冷。	jīntiāntiānqì zhēnlěng 。
+맞아. 오늘이 어제보다 추워.	是啊。 今天比昨天冷。	shì a 。   jīntiān bǐ zuótiān lěng 。
+이곳의 날씨에 넌 적응이 됐니?	这儿的天气你习惯了吗。	zhèr de tiānqì nǐ xíguàn le mǎ 。
+아직 그다지 적응하진 못했어. 여긴 도쿄보다 훨씬 춥거든.	还不太习惯呢。这儿比东京冷多了。	hái bù tài xíguàn ní 。 zhèr bǐ dōngjīng lěngduō le 。
+너희나라의 겨울은 그다지 춥지 않니?	你们那儿冬天不太冷吗？	nǐmen nàr dōngtiān bù tàilěng mǎ ？
+응	是的。	shì de 。
+도쿄에는 눈이 와?	东京下雪吗？	dōngjīng xiàxuě mǎ ？
+눈은 아주 적게 오고. 가끔 비가와.	很少下雪。有时候下雨。	hěnshǎo xiàxuě 。 yǒushíhou xiàyǔ 。
+일기예보에서 그러는데 내일은 강풍이 불어서 오늘보다 더 추울거래.	天气预报说，明天有大风，比今天还冷呢。	tiānqìyùbào shuō ， míngtiān yǒu dàfēng ， bǐ jīntiān hái lěng ní 。
+그래	是吗？	shì mǎ ？
+너 감기에 걸리지 않으려면 옷을 좀 많이 입어야겠다	你要多出穿衣服，比感冒了。	nǐ yào duōchū chuānyīfú ， bǐ gǎnmào le 。
+56.	56	
+장선생님, 베이징의 여름은 덥나요?	张老师，北京的夏天热吗？	zhāng lǎoshī， Běijīng de xiàtiān rè ma
+그다지 덥지 않단다. 너희들의 나라도 이곳과 같지	不太热。 你们那儿跟这儿一样吗？	bútàirè. nǐmennàergēn Zhèe yíyàng ma
+달라요, 여름은 덥지 않고, 겨울은 아주 추워요.	不一样，夏天不热，冬天很冷。	bùyíyàng，xiàtiānbúrè，dōngtiānhěnlěng。
+얼마나 추운데	有多冷？	yǒuduōlěng
+영하 이십여 도 쯤이에요	零下二十多度。	língxiàèrshíduōdù
+정말 춥구나!	真冷啊！	zhēn lěng a
+하지만 저는 겨울이 좋아요	可是，我喜欢冬天。	kěshì，wǒ xǐhuan dōngtiān。
+왜?	为什么？	wèishénme
+스케이트와 스키를 탈 수 있거든요	可以滑冰，滑雪。	kěyǐ huábīng，huáxuě
+	57	
+넌 어떤 운동 좋아하니?	你喜欢什么运动？	nǐ xǐhuan shénme yùndòng
+등산이랑, 스케이트, 수영을 모두 좋아해. 너는 ?	爬山，滑冰，游泳，我都喜欢。你呢？	páshān， huábīng， yóuyǒng， wǒ dōu xǐhuan。nǐ ne？
+나는 자주 농구와 배구를 해, 그리고 수영도 좋아해	我常常打篮球，打排球，也喜欢游泳。	wǒ chángcháng dǎ  lánqiú， dǎ páiqiú， yě xǐhuan yóuyǒng.
+별로 잘하지 못해, 너보다 못해, 내일 배구시합이 있는데 보러 갈래?	你游得好不好，我游得不好。没有你游得好。明天有排球比赛，你看吗？	nǐ yóu de hǎobùhǎo，wó yóu de bùhǎo，méiyǒu nǐ yóu de hǎo。 míngtiān yǒu páiqiú bǐsài， nǐ kàn ma？
+어느 팀과 어는 팀이 시합을 하는데?	谁跟谁比赛？	shuí gēn shuí bǐsài
+베이징팀이랑 광둥팀이 해	北京队对广东队。	běijīngduì duì guǎngdōngduì
+그러면 분명 재미 있겠구나, 꼭 보고 싶은데 표를 사는 것이 분명이 어렵겠지?	那一定很有意思。我很想看，票一定很难买吧？	nà yídìng hěn yǒu yìsi。hěn xiǎng kàn， piyào yídìng hěnnán mǎi bā？
+지금 사러가면 살수 있을 거야	现在去买，可能买得到。	xiànzài qù mǎi，kěnéng  mǎidé dào。
+	58	
+지금 그림 그리고 있니?	你在画画儿吗？	nǐ zài huàhuà ér ma
+그림을 그리는 것이 아니라 붓글씨를 쓰고 있어	在写毛笔字，没画画儿。	zài xiě máobǐzì， méi huàhuàr
+너 정말 잘 쓰는구나	你写得真不错！	nǐ  xiě de zhēn búcuò
+두 주 동안 연습한 거야. 난 가즈코보다 못써	练了两个星期了。我没有和字写得好。	liànle liǎnggè xīngqī le。wǒ méiyǒu hé zì xiědehǎo。
+나도 붓글씨 쓰는 것을 매우 좋아해, 하지만 전혀 쓸 줄 몰라.	我也很喜欢写毛笔字，可是一点儿也不会。	wǒ yě hěn xǐhuan xiě máobǐzì， kěshì yìdiǎner yě búhuì。
+상관없어, 네가 배우고 싶다면, 왕선생님께서 가르쳐 주실 거야	没关系，你想学，王老师可以教你。	méiguānxì， nǐ xiǎng xué， wáng lǎoshī kěyǐ jiāo nǐ。
+그러면 정말 좋겠다	那太好了。	nà tài hǎo le
+계속쓰니까 피곤하다, 좀 쉬고 싶어	写累了，我想休息一会儿。	xiě lèi le， wǒ xiǎng xiūxi yíhuìer。
+가자, 산책이나 하러 가자.	走，出去散散步吧。	zǒu， chūqù sànsànbù bā。
+	59	
+자네 중국어를 정말 잘하는군. 발음도 아주 분명하고.	你汉语说得很不错，发音很清楚。	nǐ hàn yǔ shuō dé hěn bú cuò ，fā yīn hěn qīng chǔ 。
+아니예요. 아직도 멀었는걸요.	哪儿啊，还差得远呢。	nǎ ér ā ，hái chà dé yuǎn ne 。
+중국어를 배운지 얼마나 됐지?	你学汉语学了多长时间了？	nǐ xué hàn yǔ xué le duō zhǎng shí jiān le ？
+6개월 됐어요.	学了半年了。	xué le bàn nián le 。
+중국어 신문을 읽을 수 있나?	你能看懂中文报吗？	nǐ néng kàn dǒng zhōng wén bào ma ？
+못 읽어요.	不能。	bú néng 。
+자네가 생각하기에는 중국어가 어려운가?	你觉得汉语难不难？	nǐ jiào dé hàn yǔ nán bú nán ？
+듣기랑 말하기는 어려운 편이지만 읽는 건 그런대로 쉬운 편이예요. 사전을 찾을 수 있으니까요.	听和说比较难，看比较容易，可以查字典。	tīng hé shuō bǐ jiào nán ，kàn bǐ jiào róng yì ，kě yǐ chá zì diǎn 。
+내가 하는 말은 알아들을 수 있나?	我说的话，你能听懂吗？	wǒ shuō de huà ，nǐ néng tīng dǒng ma ？
+천천히 말씀하시면 알아들을 수 있어요.	慢点儿说，我听得懂。	màn diǎn ér shuō ，wǒ tīng dé dǒng 。
+중국인과 얘기를 많이 나눠야 해.	你应该多跟中国人谈话。	nǐ yīng gāi duō gēn zhōng guó rén tán huà 。
+맞아요. 그렇게 하면 듣기와 말하기 능력을 향상 시킬 수 있을거예요.	对，这样可以提高听和说的能力。	duì ，zhè yàng kě yǐ tí gāo tīng hé shuō de néng lì 。
+	60	
+무슨 일로 그렇게 바뻐?	你忙什么呢？	nǐ máng shí me ne ？
+짐 챙기고 있어. 아버지가 오시는데 모시고 여행을 가야 하거든.	我在收拾东西呢，我父亲来了，我要陪他去旅行。	wǒ zài shōu shí dōng xī ne ，wǒ fù qīn lái le ，wǒ yào péi tā qù lǚ háng 。
+어디로 갈 건데?	去哪儿啊？	qù nǎ ér ā ？
+광저우랑 상하이, 그리고 홍콩에도 갈거야. 아버지께 여행가이드를 해드려야 해.	除了广州、上海以外，还要去香港。我得给他当导游。	chú le guǎng zhōu 、shàng hǎi yǐ wài ，hái yào qù xiāng gǎng 。wǒ dé gěi tā dāng dǎo yóu 。
+그러면 너희 아버지께서 정말 기뻐하실거야.	那你父亲一定很高兴。	nà nǐ fù qīn yī dìng hěn gāo xìng 。
+곤란한 건 광동어랑 상하이말을 모두 알아들을 수 없다는 거야.	麻烦的是广东话、上海话我都听不懂。	má fán de shì guǎng dōng huà 、shàng hǎi huà wǒ dōu tīng bú dǒng 。
+괜찮아. 상점이나 호텔에서는 모두 표준어를 할 수 있거든.	没关系，商店、饭店都说普通话。	méi guān xì ，shāng diàn 、fàn diàn dōu shuō pǔ tōng huà 。
+그들이 내가 하는 말을 알아들을 수 있을까?	他们能听懂我说的话吗？	tā men néng tīng dǒng wǒ shuō de huà ma ？
+당연하지.	没问题。	méi wèn tí 。
+그렇다면 마음이 놓이는구나.	那我就放心了。	nà wǒ jiù fàng xīn le 。
+	61	
+곧 방학이 되는구나. 넌 여행가고 싶지 않니?	快放假了，你想不想去旅行？	kuài fàng jiǎ le ，nǐ xiǎng bú xiǎng qù  lǚ xíng？
+당연히 가고 싶지.	当然想。	dāng rán xiǎng 。
+중국에는 명승고적이 아주 많은데 어디로 갈까?	中国的名胜古迹多得很，去哪儿呢？	zhōng guó de míng shèng gǔ jì duō dé hěn ，qù nǎ ér ne ？
+네가 말하는 대로 따를께.	你说吧，我听你的。	nǐ shuō ba ，wǒ tīng nǐ de 。
+먼저 꾸이린에 가자. 그 곳의 경치는 굉장히 아름다워.	先去桂林吧，那儿的风景美极了。	xiān qù guì lín ba ，nà ér de fēng jǐng měi jí le 。
+여기에서 꾸이린까지는 기차로 얼마나 걸리지?	从这儿到桂林坐火车要坐多长时间？	cóng zhè ér dào guì lín zuò huǒ chē yào zuò duō zhǎng shí jiān ？
+거의 20여 시간이 걸려. 우리 꾸이린에서 3~4일쯤 놀고 나서 상하이에 가자.	大概得二十多个小时。我们在桂林玩儿三四天，然后去上海。	dà gài dé èr shí duō gè xiǎo shí 。wǒ men zài guì lín wán ér sān sì tiān ，rán hòu qù shàng hǎi 。
+계획이 좋은데, 그럼 그렇게 하자. 7시에 영화가 있는데 지금 가면 시간에 댈 수 있을까?	这个计划不错，就这么办吧。七点有电影，现在去来得及来不及？	zhè gè jì huá bú cuò ，jiù zhè me bàn ba 。qī diǎn yǒu diàn yǐng ，xiàn zài qù lái dé jí lái bú jí ？
+시간에 댈 수 있을거야.	来得及。	lái dé jí 。
+우리 영화 보러 가자.	我们看电影去吧。	wǒ men kàn diàn yǐng qù ba 。
+그래.	走吧。	zǒu ba 。
+	62	
+상하이는 중국에서 가장 큰 도시야.	上海是中国最大的城市。	shàng hǎi shì zhōng guó zuì dà de chéng shì 。
+맞아. 상하이에는 여기보다 물건이 훨씬 많으니까.	对，上海的东西比这儿多得多。	duì ，shàng hǎi de dōng xī bǐ zhè ér duō dé duō 。
+상하이에 가면 선물을 좀 사서 집에 부쳐주고 싶어.	去上海的时候，我想买些礼物寄回家去。	qù shàng hǎi de shí hòu ，wǒ xiǎng mǎi xiē lǐ wù jì huí jiā qù 。
+네 생각엔 상하이에서 어디가 제일 번화하니?	你觉得上海哪儿最热闹？	nǐ jiào dé shàng hǎi nǎ ér zuì rè nào ？
+난징루야. 거기에는 각양각색의 상점이 있어서 물건을 사기에 아주 편리해.	南京路。那儿有各种各样的商店，买东西非常方便。	nán jīng lù 。nà ér yǒu gè zhǒng gè yàng de shāng diàn ，mǎi dōng xī fēi cháng fāng biàn 。
+들은 바로는 상하이의 음식도 꽤 유명하다던데.	听说上海的小吃也很有名。	tīng shuō shàng hǎi de xiǎo chī yě hěn yǒu míng 。
+너 위위엔에 놀러 가려는 거 아냐? 	你不是要去豫园游览吗？	nǐ bú shì yào qù yù yuán yóu lǎn ma ？
+가는 김에 그곳의 음식을 먹어볼 수 있어.	顺便可以尝尝那儿的小吃。	shùn biàn kě yǐ cháng cháng nà ér de xiǎo chī 。
+참. 푸동개발구로 견학가는 것도 괜찮겠다.	对了,你还可以去参观一下儿浦东开发区。	duì le ,nǐ hái kě yǐ qù cān guān yī xià ér pǔ dōng kāi fā qū 。
+	63	
+너 가즈코 봤니?	你看见和子了吗？	nǐ kàn jiàn hé zǐ le ma ？
+못봤어. 홀에 가서 그녀를 찾아봐.	没看见。你进大厅去找她吧。	méi kàn jiàn 。nǐ jìn dà tīng qù zhǎo tā ba 。
+가즈코, 표샀어?	和子，买到票了没有？	hé zǐ ，mǎi dào piào le méi yǒu ？
+아직 못 샀어.	还没有呢。	hái méi yǒu ne 。
+빨리 남쪽의 6번 창구로 가서 사.	快到南边六号窗口去买。	kuài dào nán biān liù hào chuāng kǒu qù mǎi 。
+상하이행 표 두 장 주세요.	买两张去上海的票。	mǎi liǎng zhāng qù shàng hǎi de piào 。
+언제 것으로 드릴까요?	要哪天的？	yào nǎ tiān de ？
+내일 표가 있나요?	明天的有没有？	míng tiān de yǒu méi yǒu ？
+매진되었습니다. 모레 것이 있는데 드릴까요?	卖完了。有后天的，要不要？	mài wán le 。yǒu hòu tiān de ，yào bú yào ？
+주세요. 낮에 도착하고 싶은데요. 몇 회 표를 사는 게 좋죠?	要。我想白天到，买哪次好？	yào 。wǒ xiǎng bái tiān dào ，mǎi nǎ cì hǎo ？
+13회로 사세요. 딱딱한 침대로 하시겠습니까, 푹신한 침대로 하시겠습니까?	买十三次吧。要硬卧还是软卧？	mǎi shí sān cì ba 。yào yìng wò hái shì ruǎn wò ？
+딱딱한 침대로 주세요.	硬卧。	yìng wò 。
+	64	
+베이징으로 가는 비행기표 있어요?	到北京的飞机票有吗?	dào běi jīng de fēi jī piào yǒu ma ?
+3일 이내의 표는 모두 매진되었습니다. 조금 빨리 예약하셔야 했어요.	三天以内的都没有了。你应该早点儿预订。	sān tiān yǐ nèi de dōu méi yǒu le 。nǐ yīng gāi zǎo diǎn ér yù dìng 。
+급한 일이 잇는데 좀 도와주세요!	我有急事，帮帮忙吧!	wǒ yǒu jí shì ，bāng bāng máng ba !
+잠시만요, 제가 다시 찾아보겠습니다. 다행이도 15일 저녁 8시 반환된 표가 한 장 있네요.	你等等，我再查查。真巧，有一张十五号晚上八点的退票。	nǐ děng děng ，wǒ zài chá chá 。zhēn qiǎo ，yǒu yī zhāng shí wǔ hào wǎn shàng bā diǎn de tuì piào 。
+사겠습니다. 이건 제 여권이고요. 여쭤볼 게 있는데요. 여기에서 베이징까지 시간이 얼마나 걸리나요?	我要了。这是我的护照。请问，从这儿到北京要多长时间?	wǒ yào le 。zhè shì wǒ de hù zhào 。qǐng wèn ，cóng zhè ér dào běi jīng yào duō zhǎng shí jiān ?
+한 시간이 좀 넘게 걸립니다.	一个多小时。	yī gè duō xiǎo shí 。
+몇 시에 이륙하죠?	几点起飞?	jǐ diǎn qǐ fēi ?
+거기 보시면 티켓에 14시 5분 이륙한다고 쓰여 있습니다.	您看，机票上写着十四点零五分起飞。	nín kàn ，jī piào shàng xiě zhe shí sì diǎn líng wǔ fèn qǐ fēi 。
+아가씨, 지갑을 놓고 가셨습니다.	小姐，您的钱包忘在这儿了。	xiǎo jiě ，nín de qián bāo wàng zài zhè ér le 。
+정말 감사합니다.	太谢谢你了。	tài xiè xiè nǐ le 。
+	65	
+마침내 꾸이린에 도착했구나.	终于到了桂林了。	zhōngyú dàole Guìlín le
+아이고, 피곤해 죽겠네!	哎呀，累死了!	āiyā，lèi sǐ le
+데이빗, 넌 빨리가서 묵을 곳을 찾아봐.	大卫，你快去找住的地方吧。	dàwèi， nǐ kuài qù zhǎo zhù de Dìfang bā
+어떤호텔로 잡는 것이 좋을까?	找什么样的旅馆好呢？	zhǎo shénmeyàng de lǚguǎn hǎo ne
+교통이 편리한 곳으로 찾기만 하면 돼.	只要找个交通方便的就行	zhǐyào zhǎo gè jiāotōng fāngbiàn de jiù xíng
+그러면 너희들은 천천히 가서 앞에 있는 저 버스정류장에서 기다려, 내가 가서 물어볼게.	那你们慢慢地走，在前边那个汽车站等我。我去问问。	nà nǐmen mànmàn de zǒu，zài qiánbiān nàgè Qìchēzhàn děng wǒ。wǒ qù wènwèn
+	66	
+말씀 좀 묻겠습니다. 빈방 있습니까?	请问，有空房间吗?	qǐng wèn ，yǒu kōng fáng jiān ma ?
+지금은 없습니다. 모두 찼어요.	现在没有，都住满了。	xiàn zài méi yǒu ，dōu zhù mǎn le 。
+방법이 없을까요? 좀 도와주세요.	请您想想办法，帮个忙吧!	qǐng nín xiǎng xiǎng bàn fǎ ，bāng gè máng ba !
+몇 분이십니까?	你们几位?	nǐ men jǐ wèi ?
+여자 두 명에 남자 한 명입니다.	两个女的，一个男的。	liǎng gè nǚ de ，yī gè nán de 。
+잠시만 기다려보세요. 아마 곧 떠날 손님이 있을 거예요	你们等一会儿看看，可能有客人要走。	nǐ men děng yī huì ér kàn kàn ，kě néng yǒu kè rén yào zǒu 。
+이 방 꽤 괜찮지? 창문도 크고.	这个房间很不错，窗户很大。	zhè gè fáng jiān hěn bú cuò ，chuāng hù hěn dà 。
+난 목욕하고 싶어.	我想洗澡。	wǒ xiǎng xǐ zǎo 。
+먼저 뭘 좀 먹자.	先吃点儿东西吧。	xiān chī diǎn ér dōng xī ba 。
+난 배가 안 고파. 지금 막 카스테라를 먹었거든.	我不饿，刚才吃了一块蛋糕。	wǒ bú è ，gāng cái chī le yī kuài dàn gāo 。
+저 가방도 옷장 안에 넣어라.	那个包你放进衣柜里去吧。	nà gè bāo nǐ fàng jìn yī guì lǐ qù ba 。
+가방이 큰데 들어갈 수 있을까?	包很大，放得进去放不进去？	bāo hěn dà ，fàng dé jìn qù fàng bú jìn qù ？
+한번 해 봐.	你试试。	nǐ shì shì 。
+들어갈 수 있구나. 내 빨간 셔츠가 왜 안보이지?	放得进去。我的红衬衫怎么不见了？	fàng dé jìn qù 。wǒ de hóng chèn shān zěn me bú jiàn le ？
+의자 위에 있잖아.	不是放在椅子上吗？	bú shì fàng zài yǐ zǐ shàng ma ？
+아! 방금 놓고는 잊어버렸어.	啊! 刚放的就忘了。	ā ! gāng fàng de jiù wàng le 。
+	67	
+어디가 아프세요?	大夫：你怎么了？	nǐ zěn me le ？
+머리가 아프고 기침이 나와요.	玛丽：我头疼，咳嗽。	wǒ tóu téng ，ké sòu 。
+며칠이나 되었죠?	大夫：几天了？	jǐ tiān le ？
+어제 오전까지는 괜찮았는데 저녁부터 불편해지기 시작했어요.	玛丽：昨天上午还好好的，晚上就开始不舒服了。	zuó tiān shàng wǔ hái hǎo hǎo de ，wǎn shàng jiù kāi shǐ bú shū fú le 。
+약은 먹었나요?	大夫：你吃药了吗？	nǐ chī yào le ma ？
+한 번 먹었어요.	玛丽：吃了一次。	chī le yī cì 。
+입을 벌려보세요, 좀 보죠. 목이 약간 부었군요.	大夫：你把嘴张开，我看看。嗓子有点儿红。	nǐ bǎ zuǐ zhāng kāi ，wǒ kàn kàn 。sǎng zǐ yǒu diǎn ér hóng 。
+무슨 문제가 있는 거예요?	玛丽：有问题吗？	yǒu wèn tí ma ？
+아니에요. 체온을 좀 재 봅시다.	大夫：没什么。你试试表吧。	méi shí me 。nǐ shì shì biǎo ba 。
+열이 있나요?	玛丽：发烧吗？	fā shāo ma ？
+37.6도군요. 감기에 걸렸네요.	大夫：三十七度六，你感冒了。	sān shí qī dù liù ，nǐ gǎn mào le 。
+주사를 맞아야 해요?	玛丽：要打针吗？	yào dǎ zhēn ma ？
+그럴 필요 없습니다. 이틀 정도 약을 먹으면 좋아질 것입니다.	大夫：不用，吃两天药就会好的。	bú yòng ，chī liǎng tiān yào jiù huì hǎo de 。
+	68	
+왕란은? 내가 수업 끝나자마자 찾았어. 두 번이나 찾아봤는데 모두 없던걸.	王兰呢？我一下课就找她，找了她两次，都不在。	wáng lán ne ？wǒ yī xià kè jiù zhǎo tā ，zhǎo le tā liǎng cì ，dōu bú zài 。
+그녀 입원했어.	她住院了。	tā zhù yuàn le 。
+병이 난거야?	病了吗?	bìng le ma ?
+아니, 다쳤어.	不是，她受伤了。	bú shì ，tā shòu shāng le 。
+어느 병원에 입원했는데?	住哪个医院？	zhù nǎ gè yī yuàn ？
+아마 제3병원에 갔을거야.	可能是第三医院。	kě néng shì dì sān yī yuàn 。
+지금은 상태가 어떻대? 상처가 심해?	现在情况怎么样？伤得重吗？	xiàn zài qíng kuàng zěn me yàng ？shāng dé zhòng ma ？
+아직은 잘 몰라. 검사를 해봐야 알 수 있어.	还不清楚，检查了才能知道。	hái bú qīng chǔ ，jiǎn chá le cái néng zhī dào 。
+	69	
+왕란이 차에 부딪쳐서 다쳤다던데 그래?	听说王兰被车撞伤了，是吗?	tīng shuō wáng lán bèi chē zhuàng shāng le ，shì ma ?
+응, 입원했어.	是的，她住院了。	shì de ，tā zhù yuàn le 。
+오늘 오후 우리 그녀 문병가자.	今天下午我们去看看她吧。	jīn tiān xià wǔ wǒ men qù kàn kàn tā ba 。
+그래, 우리 뭘 가지고 갈까?	好的, 我们带点儿什么去?	hǎo de , wǒ men dài diǎn ér shen me qù ?
+과일 같은 걸로 좀 가지고 가자.	带些水果什么的吧。	dài xiē shuǐ guǒ shí me de ba 。
+좋아, 우리 지금 사러 가자.	好，我们现在就去买。	hǎo ，wǒ men xiàn zài jiù qù mǎi 。
+참, 최근에 병원 앞에서 도로보수공사를 하고 있어서 차가 병원 문 앞까지 갈 수가 없어.	对了，最近医院前边修路，汽车到不了医院门口。	duì le ，zuì jìn yī yuàn qián biān xiū lù ，qì chē dào bú le yī yuàn mén kǒu 。
+그럼 어떻게 하지?	那怎么办?	nà zěn me bàn ?
+우리 전 정거장에서 내리자. 거기에서 걸어가도 가까워.	我们在前一站下车，从那儿走着去很近。	wǒ men zài qián yī zhàn xià chē ，cóng nà ér zǒu zhe qù hěn jìn 。
+	70	
+왕란, 몸은 괜찮아졌니?	王兰，你好点儿了吗？	wáng lán ，nǐ hǎo diǎn ér le ma ？
+많이 좋아진 것처럼 보이는데.	看样子，你好多了。	kàn yàng zǐ ，nǐ hǎo duō le 。
+하루 하루 나아지는 것 같아.	我觉得一天比一天好。	wǒ jiào dé yī tiān bǐ yī tiān hǎo 。
+우리가 너에게 먹을 것 좀 가져왔어. 분명히 좋아할거야.	我们给你带来一些吃的，保证你喜欢。	wǒ men gěi nǐ dài lái yī xiē chī de ，bǎo zhèng nǐ xǐ huān 。
+너희들 고맙다.	谢谢你们。	xiè xiè nǐ men 。
+여기서 지내는 건 어떠니?	你在这儿过得怎么样?	nǐ zài zhè ér guò dé zěn me yàng ?
+안경을 떨어뜨려 부러져서 책을 볼 수가 없어.	眼镜摔坏了，看不了书。	yǎn jìng shuāi huài le ，kàn bú le shū 。
+걱정하지 마. 워크맨을 가져왔어.	别着急，给你带来了随身听。	bié zhe jí ，gěi nǐ dài lái le suí shēn tīng 。
+잘 쉬어. 다음에 우리가 보러 올게.	你好好休息，下次我们再来看你。	nǐ hǎo hǎo xiū xī ，xià cì wǒ men zài lái kàn nǐ 。
+괜찮아, 의사가 나 다음주에 퇴원할 수 있을 거라고 했어.	不用了，大夫说我下星期就能出院。	bú yòng le ，dà fū shuō wǒ xià xīng qī jiù néng chū yuàn 。
+정말? 다음주 주말 댄스파티가 있어. 우리 네가 와서 춤추길 기다릴게.	真的? 下个周末有舞会，我们等你来跳舞。	zhēn de ? xià gè zhōu mò yǒu wǔ huì ，wǒ men děng nǐ lái tiào wǔ 。
+그래, 꼭 시간 맞춰 갈게.	好，我一定准时到。	hǎo ，wǒ yī dìng zhǔn shí dào 。
+	71	
+안녕하세요, 왕 선생님!	你好，王先生!	nǐ hǎo ，wáng xiān shēng !
+메리양, 오랜만이군. 오늘은 어떻게 여기에 올 시간이 있었나?	玛丽小姐，好久不见了。今天怎么有空儿来了？	mǎ lì xiǎo jiě ，hǎo jiǔ bú jiàn le 。jīn tiān zěn me yǒu kōng ér lái le ？
+작별 인사를 드리러 왔어요.	我来向你告别。	wǒ lái xiàng nǐ gào bié 。
+어디에 가는데?	你要去哪儿？	nǐ yào qù nǎ ér ？
+귀국하려고 하거든요.	我要回国了。	wǒ yào huí guó le 。
+시간이 정말 빨리 가는구나. 네가 베이징에 온지 벌써 일 년이 지나다니.	日子过得真快，你来北京已经一年了。	rì zǐ guò dé zhēn kuài ，nǐ lái běi jīng yǐ jīng yī nián le 。
+항상 선생님께 폐만 끼쳐드려 정말 죄송합니다.	常来打扰你，很过意不去。	cháng lái dǎ rǎo nǐ ，hěn guò yì bú qù 。
+무슨 말인가? 바빠서 제대로 돌봐주지도 못했는걸.	哪儿的话，因为忙，对你的照顾很不够。	nǎ ér de huà ，yīn wéi máng ，duì nǐ de zhào gù hěn bú gòu 。
+무슨 그런 말씀을 하세요.	你太客气了。	nǐ tài kè qì le 。
+언제 갈 건가? 내가 배웅하러 나가지.	哪天走？我去送你。	nǎ tiān zǒu ？wǒ qù sòng nǐ 。
+그렇게 바쁘신데 배웅해 주시지 않으셔도 되요.	你那么忙，不用送了。	nǐ nà me máng ，bú yòng sòng le 。
+	72	
+이번에 귀국하면 넌 취업준비를 하니, 아니면 계속 공부할거니?	这次回国，你准备工作还是继续学习？	zhè cì huí guó ，nǐ zhǔn bèi gōng zuò hái shì jì xù xué xí ？
+대학원 시험을 보려고 해. 공부하면서 일하려고.	我打算考研究生，一边学习，一边工作。	wǒ dǎ suàn kǎo yán jiū shēng ，yī biān xué xí ，yī biān gōng zuò 。
+정말 힘들겠구나.	那很辛苦啊。	nà hěn xīn kǔ ā 。
+괜찮아. 우리나라에서는 많은 사람들이 이렇게 일하고 있거든.	没什么，我们那儿很多人都这样。	méi shen me ，wǒ men nà ér hěn duō rén dōu zhè yàng 。
+네가 귀국할 것이라는 걸 친구들이 모두 알고 있니?	你要回国的事，朋友们都知道了吗？	nǐ yào huí guó de shì ，péng yǒu men dōu zhī dào le ma ？
+아는 친구도 있고 모르는 친구도 있어. 며칠 시간나는 틈을 타서 그들에게도 작별인사를 하러 가야지.	有的知道，有的不知道。趁这两天有空儿，我去向他们告别。	yǒu de zhī dào ，yǒu de bú zhī dào 。chèn zhè liǎng tiān yǒu kōng ér ，wǒ qù xiàng tā men gào bié 。
+	73	
+귀국할 날짜가 점점 가까워지고 있어.	回国的日子越来越近了。	huí guó de rì zǐ yuè lái yuè jìn le 。
+너희들이 간다니깐 정말 서운하다.	真舍不得你们走。	zhēn shě bú dé nǐ men zǒu 。
+그래. 비록 시간은 길지 않았지만 우리의 우정은 아주 깊었잖아.	是啊，虽然时间不长，但是我们的友谊很深。	shì ā ，suī rán shí jiān bú zhǎng ，dàn shì wǒ men de yǒu yì hěn shēn 。
+우리의 통신주소를 노트에 남겨놓았으니까 나중에 자주 연락하자.	我们把通讯地址都留在本子上了，以后常联系。	wǒ men bǎ tōng xùn dì zhǐ dōu liú zài běn zǐ shàng le ，yǐ hòu cháng lián xì 。
+너희들이 다시 올 기회가 있을거야.	我想你们还是有机会来的。	wǒ xiǎng nǐ men hái shì yǒu jī huì lái de 。
+만약 베이징에 오면 꼭 너희들을 보러 올게.	要是来北京，一定来看你们。	yào shì lái běi jīng ，yī dìng lái kàn nǐ men 。
+우리 같이 사진찍자.	让我们一起照张相吧!	ràng wǒ men yī qǐ zhào zhāng xiàng ba !
+좋아. 몇 장 찍어서 기념으로 남기자.	好，多照几张，留作纪念。	hǎo ，duō zhào jǐ zhāng ，liú zuò jì niàn 。
+	74	
+환송회에 참가한 사람이 정말 많구나.	参加欢送会的人真多。	cān jiā huān sòng huì de rén zhēn duō 。
+실습을 간 사람을 제외하고는 모두 왔어.	除了去实习的以外，都来了。	chú le qù shí xí de yǐ wài ，dōu lái le 。
+프로그램이 시작됐다.	开始演节目了。	kāi shǐ yǎn jiē mù le 。a
+메리야. 중국어로 노래를 불러봐.	玛丽，你用汉语唱个歌吧。	mǎ lì ，nǐ yòng hàn yǔ chàng gè gē ba 。
+내가 다 불렀으니 이제 너희들 차례야.	我唱完就该你们了。	wǒ chàng wán jiù gāi nǐ men le 。
+각반의 프로그램이 참 다양하고 훌륭하구나.	各班的节目很多，很精彩。	gè bān de jiē mù hěn duō ，hěn jīng cǎi 。
+동기들과 선생님들께서 이처럼 열정적으로 우리를 환송해주니까 정말 무슨 말을 해야할지 모르겠어	同学和老师这么热情地欢送我们，真不知道说什么好。	tóng xué hé lǎo shī zhè me rè qíng dì huān sòng wǒ men ，zhēn bú zhī dào shuō shí me hǎo 。
+좋은 성적을 받은 것 축하해.	祝贺你们取得了好成绩。	zhù hè nǐ men qǔ dé le hǎo chéng jì 。
+너희들의 중국어 실력이 더 빨리 향상되길 기원할게.	祝你们更快地提高中文水平。	zhù nǐ men gèng kuài dì tí gāo zhōng wén shuǐ píng 。
+	75	
+짐이 이렇게 많으니 비행기를 타면 분명히 중량초과일거야.	你这么多行李，坐飞机的话，一定超重。	nǐ zhè me duō háng lǐ ，zuò fēi jī de huà ，yī dìng chāo zhòng 。
+그럼 어떻게 하지?	那怎么办？	nà zěn me bàn ？
+우체국에서 부치면 가격도 매우 비쌀 뿐 아니라 이렇게 큰 짐은 부칠 수도 없어.	邮局寄不但太贵，而且这么大的行李也不能寄。	yóu jú jì bú dàn tài guì ，ér qiě zhè me dà de háng lǐ yě bú néng jì 。
+배로 부칠 수 있어.	可以海运。	kě yǐ hǎi yùn 。
+배로 부치면 시간이 얼마나 걸릴까?	海运要多长时间？	hǎi yùn yào duō zhǎng shí jiān ？
+확실히는 기억나지 않는데, 탁송회사에 가서 물어보면 될꺼야.	我记不清楚了，我们可以去托运公司问问。	wǒ jì bú qīng chǔ le ，wǒ men kě yǐ qù tuō yùn gōng sī wèn wèn 。
+아, 생각났다. 작년에 리청르도 짐을 부쳤어.	啊! 我想起来了，去年李成日也托运过。	ā ! wǒ xiǎng qǐ lái le ，qù nián lǐ chéng rì yě tuō yùn guò 。
+잘 됐다. 내일 내가 가서 물어볼게.	那好，明天我去问一下儿。	nà hǎo ，míng tiān wǒ qù wèn yī xià ér 。
+	76	
+말씀 좀 묻겠습니다. 여기서 짐을 부치나요?	我打听一下儿，这儿托运行李吗？	wǒ dǎ tīng yī xià ér ，zhè ér tuō yùn háng lǐ ma ？
+예. 어디로 부치려고 하시는데요?	托运。你要运到哪儿？	tuō yùn 。nǐ yào yùn dào nǎ ér ？
+일본이요. 시간이 얼마나 걸릴까요?	日本。要多长时间？	rì běn 。yào duō zhǎng shí jiān ？
+한 달이 좀 넘게 걸립니다.	大概一个多月。	dà gài yī gè duō yuè 。
+운송비는 어떻게 계산하죠?	运费怎么算？	yùn fèi zěn me suàn ？
+이 가격표에 따라 계산합니다. 짐을 이 곳으로 가져오세요.	按照这个价目表收费。你可以把东西运来。	àn zhào zhè gè jià mù biǎo shōu fèi 。nǐ kě yǐ bǎ dōng xī yùn lái 。
+제 짐은 너무 커서 혼자 옮길 수 가 없는데요.	我的行李很大，一个人搬不动。	wǒ de háng lǐ hěn dà ，yī gè rén bān bú dòng 。
+괜찮습니다. 손님들의 편의를 위해 저희가 가지러 갈 수도 있습니다.	没关系，为了方便顾客，我们也可以去取。	méi guān xì ，wéi le fāng biàn gù kè ，wǒ men yě kě yǐ qù qǔ 。
+너무 번거롭게 해 드리는군요.	那太麻烦你们了。	nà tài má fán nǐ men le 。
+	77	
+준비는 잘 되가?	准备得怎么样了？	zhǔn bèi dé zěn me yàng le ？
+지금 짐을 정리하고 있어. 봐, 너무 어지럽지?	我正收拾东西呢。你看，多乱啊!	wǒ zhèng shōu shí dōng xī ne .nǐ kàn ，duō luàn ā !
+도중에 쓸 물건은 핸드백에 넣어. 이렇게 하면 쓰기가 편하니까.	路上要用的东西放在手提包里，这样用起来方便。	lù shàng yào yòng de dōng xī fàng zài shǒu tí bāo lǐ ，zhè yàng yòng qǐ lái fāng biàn 。
+그렇지. 몸에 지니고 가는 물건은 그다지 많지 않아. 트렁크 두 개는 이미 부쳤어.	对。我随身带的东西不太多，两个箱子都已经托运了。	duì 。wǒ suí shēn dài de dōng xī bú tài duō ，liǎng gè xiāng zǐ dōu yǐ jīng tuō yùn le 。
+미안해. 널 공항까지 마중 나갈 수 없어.	真抱歉，我不能送你去机场了。	zhēn bào qiàn ，wǒ bú néng sòng nǐ qù jī chǎng le 。.
+괜찮아. 바쁘잖아.	没关系。你忙吧。	méi guān xì 。nǐ máng ba 。
+아직도 못한 일이 있다면 내가 대신 해 줄게.	你还有什么没办的事，我可以替你办。	nǐ hái yǒu shí me méi bàn de shì ，wǒ kě yǐ tì nǐ bàn 。
+사진을 좀 현상했는데 찾으러 갈 시간이 었없어.	我冲洗了一些照片，来不及去取了。	wǒ chōng xǐ le yī xiē zhào piàn ，lái bú jí qù qǔ le 。
+토요일이나 일요일에 내가 대신 찾으러 가고 나중에 너에게 부쳐줄게.	星期六或者星期天我替你去取，然后寄给你。	xīng qī liù huò zhě xīng qī tiān wǒ tì nǐ qù qǔ ，rán hòu jì gěi nǐ 。
+	78	
+왔구나! 널 기다리고 있었어.	你来了，我正等着你呢!	nǐ lái le ，wǒ zhèng děng zhe nǐ ne !
+짐 정리는 다 했니?	你的东西收拾好了吗？	nǐ de dōng xī shōu shí hǎo le ma ？
+그럭저럭. 이번에 기차도 타고 비행기도 타니까 굉장히 번거롭다.	马马虎虎。这次又坐火车又坐飞机，特别麻烦。	mǎ mǎ hǔ hǔ 。zhè cì yòu zuò huǒ chē yòu zuò fēi jī ，tè bié má fán 。
+그래. 밖에 나가면 집에 있는 것과는 달리 번거로운 일이 많지. 이 몇 개의 가방을 모두 들고 가야 하는 거야?	是啊，出门跟在家不一样，麻烦事就是多。这几个包都是要带走的吗？	shì ā ，chū mén gēn zài jiā bú yī yàng ，má fán shì jiù shì duō 。zhè jǐ gè bāo dōu shì yào dài zǒu de ma ？
+응, 모두 가벼운 거야.	是的。都很轻。	shì de 。dōu hěn qīng 。
+네 개의 작은 가방은 두 개의 큰 가방만 못해.	四个小包不如两个大包好。	sì gè xiǎo bāo bú rú liǎng gè dà bāo hǎo 。
+좋은 의견이다!	好主意!	hǎo zhǔ yì !
+새로 정리하는 걸 도와줄게.	我帮你重新弄弄吧。	wǒ bāng nǐ zhòng xīn nòng nòng ba 。
+또 폐를 끼치는구나.	又给你添麻烦了。	yòu gěi nǐ tiān má fán le 。
+무슨 말이야.	哪儿的话。	nǎ ér de huà 。
+그리고, 만약 나에게 온 편지가 있으면 나에게 전해줄래?	另外，要是有我的信，请你转给我。	lìng wài ，yào shì yǒu wǒ de xìn ，qǐng nǐ zhuǎn gěi wǒ 。
+물론이지.	没问题。	méi wèn tí 。
+	79	
+이륙시간까지 아직 멀었어.	刘京：离起飞还早呢。	líqǐfēiháizǎone
+우리 대기실에 가서 잠시 앉아있자	玛丽：我们去 候机室坐一会儿。	wǒmenqù hòujīshì zuòyíhuìer
+장리잉이 아직 안 왔네.	王兰：张丽英还没来。	zhānglìyīngháiméilái.
+저기 좀 봐. 지금 뛰어오고 있네.	刘京：你看，她跑来了。	nǐkàn,  tāpǎoláile.
+차가 너무 막히는 바람에 시간이 지체되어서 늦었어.	丽英: 车太挤，耽误了时间，我来晚了。	chētàijǐ，dānwùleshíjiān，wǒláiwǎnle。.
+늦지 않았어. 넌 시간 맞춰 왔는걸.	刘京：不晚，你来得正合适。	bùwǎn，nǐláidezhènghéshì.
+아이고, 땀까지 흘리며 뛰어왔구나.	王兰：哎呀，你跑得都出汗了。	āiyā，nǐpǎodedōuchūhànle
+어서 앉아서 찬 음료수 좀 마셔.	玛丽：快坐下，喝点儿冷饮吧。	kuàizuòxià，hēdiǎnerlěngyǐnbā
+너 여권을 트렁크 안에 넣지 않았지?	刘京：你没把护照放在箱子里吧?	nǐméibǎhùzhàofàngzàixiāngzilǐbā?
+몸에 지니고 있어.	玛丽：我随身带着呢。	wǒsuíshēndàizhene。
+들어가야겠다.	王兰：你该进去了。	nǐgāijìnqùle
+잠시 후에 출국수속도 밟아야 하니까.	丽英: 一会儿还要办出境手续呢。	yíhuìerháiyào办bànchūjìngshǒuxùne。.
+	80	
+너에게 짐을 줄게 잘들어. 세관검사 준비해.	给你行李拿好。准备 海关检查。	gěi nǐ xíngli ná hǎo。zhǔnbèi Hǎiguān jiǎnchá。
+조심해서 가.	一路上 多保重。	Yílùshàng duō bǎozhòng。
+네게 바랄게. 자주 우리와 연락하자!	希望你 常跟我们 联系。	xīwàng nǐ cháng gēn wǒmen liánxì。
+우리 절대 잊지마!	你 可别把 我们 忘了。	nǐ kě bié bǎ wǒmen wàngle 。
+그럴리 없지. 그곳에 도착하면 바로 전화할게.	不会的 我到了那儿 就给你们打电话。	búhuì de wǒ dàole nàer jiù gěi nǐmen dǎdiànhuà。
+가족들에게 안부 전해줘!	问候你 全家人。	wènhòu nǐ quánjiārén。
+안니양에게 안부 전해줘!	问 安妮小姐好。	wèn ānnī xiǎojiě hǎo。
+편안한 여행이 되길 빌게!	祝你 一路平安!	zhù nǐ yílùpíng'ān!
+잘있어!	再见了!	zàijiànle!
+잘가!	再见!	zàijiàn!
+		Loading...
+		Loading...
