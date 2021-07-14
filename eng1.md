@@ -39,6 +39,7 @@ A: 죄송합니다. 창문쪽 좌석은 다 찼습니다. 복도쪽 좌석은 �
 B: 뭐 괜찮아요.	B: That will be just fine. 
 A: 여기 보딩 패스 있습니다. 5시 30분에 32번 탑승구에서 탑승이 시작됩니다.	"A: Here's your boarding pass.
  They will start boarding at 5:30, at Gate 32." 
+
 5가방	"1.5 체크인할 가방이 몇 개예요?
  How many bags do you have to check in?" 
 A: 가방을 몇 개나 체크인하실 겁니까?	A: How many bags do you have to check in? 
@@ -49,6 +50,7 @@ A: 아닙니다. 여기 수하물표 있습니다.	A: No. Here's your baggage cl
 "2과
  비행기"	"비행기 안에서 벌어지는 일
  Can I get something to drink?" 
+
 6탑승	"2.1 자리 찾는 것 좀 도와주실래요?
  Can you help me find my seat?" 
 A: 탑승을 환영합니다!	A: Welcome aboard! 
@@ -62,6 +64,7 @@ B: 예, 부탁해요. 정말 친절하시군요. 그리고 화장실은 어디 �
  And where can I find the restroom?" 
 A: 통로 끝에 있는 화장실을 이용하세요. 저쪽 화장실은 지금 사용 중이에요.	"A: You can find it down the aisle.
  The lavatory over there is occupied now." 
+
 7자리변경	2.2 자리 좀 바꿔 주실래요? Could I change my seat. 
 A: 저기요! 다른 자리로 바꿀 수 없을까요? 제가 고소 공포증이 있어서요.	A: Excuse me! Could I change my seat? I have acrophobia. 
 B 잠깐만요. 여기 앉으시면 됩니다. 비행기가 곧 이륙합니다. 안전벨트를 매세요.	"B: Let me see… You can seat here.
@@ -69,6 +72,7 @@ B 잠깐만요. 여기 앉으시면 됩니다. 비행기가 곧 이륙합니다.
 A: 지금 핸드폰 쓸 수 있나요?	A: May I use my smart phone now? 
 B 죄송합니다. 비행 중에는 사용을 삼가도록 되어 있어요.	B: I'm sorry, you are requested to abstain from using it through the flight. 
 A: 아, 알겠습니다.	A: Oh, I see. 
+
 8멀미	2.3 전 비행기 멀미가 있어요. I have airsickness. 
 A: 창백해 보이는데, 괜찮으세요?	A: You look pale. Are you OK? 
 B: 아... 아뇨.... 비행기 멀미가 나는데요.	B: No, no.. I have airsickness. 
@@ -80,6 +84,7 @@ B 음.. 좀 낫군요. 담요 하나 더 갖다 주실래요? 좀 쉬는 게 낫
 A: 곧 갖다 드릴게요. 여기 있습니다. 다른 건요?	A: I'll bring you one in a minute. Here you are. Anything else? 
 B 고맙습니다. 기내식 나올 때 깨워 주실래요?	B: Thank you. Could you wake me up at dinner time? 
 A: 그러죠.	A: No problem. 
+
 9기내식	"2.4 마실 것 좀 갖다 드릴까요? 
  Would you like something to drink?" 
 A 기내식으로 닭고기와 쇠고기 요리를 제공하고 있습니다. 어떤 걸로 드시겠습니까?	A: We are supplying chicken and beef for the inflight meal. Which one would you like? 
@@ -89,6 +94,7 @@ B 예, 정말 맛있었어요.	B: Yes, I really enjoyed it.
 A: 마실 것 좀 드릴까요? 커피, 오렌지 주스랑, 주류로는 칵테일, 위스키가 있는데요.	"A: Would you like something to drink?
  We have coffee, orange juice, alcoholic beverages; cocktails, and whisky." 
 B 커피로 주세요. 설탕 넣어서요.	B: I'll have coffee - with sugar, please. 
+
 10연결편	"2.5 Atlanta행 연결편 어디서 타요?
  Where's the connecting flight to Atlanta?" 
 방송: 이 여객기는 약 3분 뒤에 착륙합니다. 다시 이륙하기 전에 1시간 동안 머물 예정입니다.	Announcement: We will be landing in about 3 minutes and will have one hour layover before we take off again. 
@@ -99,11 +105,10 @@ B: 오, 손님은 통과 여객이시군요. 그럼 비행기를 갈아타실 �
  Just show your ticket stub when you get back on." 
 A 알겠습니다. 언제 출발하나요?	A: Oh, I see. And what's the departure time? 
 B 오후 4시 20분입니다.	B: It's 4:20 p.m. 
-"3과
- 통관"	"여유 있게 미국 공항 통과하기
- Can I see your immigration card, please?" 
-11입국	"3.1 여행의 목적이 무엇입니까?
- What's the purpose of your trip?" 
+
+"3과 통관"	"여유 있게 미국 공항 통과하기 Can I see your immigration card, please?" 
+
+11입국	"3.1 여행의 목적이 무엇입니까? What's the purpose of your trip?" 
 A: 입국 신고서와 여권 좀 보여 주시겠어요?	A: Can I see your immigration card and passport, please? 
 B: 예, 여기 있습니다.	B: OK. Here it is. 
 A: 여행의 목적이 무엇입니까? I	A: What's the purpose of your trip? 
