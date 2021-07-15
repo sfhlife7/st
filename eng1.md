@@ -34,25 +34,21 @@ A: 아, 그렇군요.	A: Oh, I see.
 4창문	"1.4 창문 쪽 좌석이 좋은데요. I'd like a window seat, please." 
 A: 티켓과 여권 좀 주세요.	A: Your ticket and passport, please. 
 B: 여기 있습니다. 창문쪽 좌석으로 부탁합니다.	B: Here you are. I'd like a window seat, please. 
-A: 죄송합니다. 창문쪽 좌석은 다 찼습니다. 복도쪽 좌석은 어떠세요?	"A: I'm sorry. No window seats are availiable.
- How about an aisle seat?" 
+A: 죄송합니다. 창문쪽 좌석은 다 찼습니다. 복도쪽 좌석은 어떠세요?	"A: I'm sorry. No window seats are availiable. How about an aisle seat?" 
 B: 뭐 괜찮아요.	B: That will be just fine. 
 A: 여기 보딩 패스 있습니다. 5시 30분에 32번 탑승구에서 탑승이 시작됩니다.	"A: Here's your boarding pass.
  They will start boarding at 5:30, at Gate 32." 
 
-5가방	"1.5 체크인할 가방이 몇 개예요?
- How many bags do you have to check in?" 
+5가방	"1.5 체크인할 가방이 몇 개예요? How many bags do you have to check in?" 
 A: 가방을 몇 개나 체크인하실 겁니까?	A: How many bags do you have to check in? 
 B 이 여행용 가방 두 개요.	B: Just these two suitcases. 
 A 저울 위에 올려 주세요.	A: Put your bags on the scale, please. 
 B: 제 짐이 중량 초과인가요?	B: Are my bags overweight? 
 A: 아닙니다. 여기 수하물표 있습니다.	A: No. Here's your baggage claim ticket. 
-"2과
- 비행기"	"비행기 안에서 벌어지는 일
- Can I get something to drink?" 
 
-6탑승	"2.1 자리 찾는 것 좀 도와주실래요?
- Can you help me find my seat?" 
+"2과 비행기"	"비행기 안에서 벌어지는 일 Can I get something to drink?" 
+
+6탑승	"2.1 자리 찾는 것 좀 도와주실래요? Can you help me find my seat?" 
 A: 탑승을 환영합니다!	A: Welcome aboard! 
 B 고마워요. 제 자리 찾는 것 좀 도와주실래요?	B: Thank you. Can you help me find my seat? 
 A: 물론이죠. 티켓 좀 보여주시겠어요?	A: Sure. May I see your ticket, please? 
@@ -60,15 +56,12 @@ B: 여기 있어요.	B: Here it is.
 A: 절 따라오세요. 자리는 저쪽이네요.	A: Follow me, please. Your seat is over there. 
 B 고마워요.	B: Thank you. 
 A: 천만에요. 머리 위 짐칸에 가방 넘는 것 도와드릴까요?	A: Your welcome. Could I help you put your bag in the over-head compartment? 
-B: 예, 부탁해요. 정말 친절하시군요. 그리고 화장실은 어디 있나요?	"B: Yes, please. It's so kind of you!
- And where can I find the restroom?" 
-A: 통로 끝에 있는 화장실을 이용하세요. 저쪽 화장실은 지금 사용 중이에요.	"A: You can find it down the aisle.
- The lavatory over there is occupied now." 
+B: 예, 부탁해요. 정말 친절하시군요. 그리고 화장실은 어디 있나요?	"B: Yes, please. It's so kind of you! And where can I find the restroom?" 
+A: 통로 끝에 있는 화장실을 이용하세요. 저쪽 화장실은 지금 사용 중이에요.	"A: You can find it down the aisle. The lavatory over there is occupied now." 
 
 7자리변경	2.2 자리 좀 바꿔 주실래요? Could I change my seat. 
 A: 저기요! 다른 자리로 바꿀 수 없을까요? 제가 고소 공포증이 있어서요.	A: Excuse me! Could I change my seat? I have acrophobia. 
-B 잠깐만요. 여기 앉으시면 됩니다. 비행기가 곧 이륙합니다. 안전벨트를 매세요.	"B: Let me see… You can seat here.
- The flight is leaving now. Fasten your seat belt, please." 
+B 잠깐만요. 여기 앉으시면 됩니다. 비행기가 곧 이륙합니다. 안전벨트를 매세요.	"B: Let me see… You can seat here. The flight is leaving now. Fasten your seat belt, please." 
 A: 지금 핸드폰 쓸 수 있나요?	A: May I use my smart phone now? 
 B 죄송합니다. 비행 중에는 사용을 삼가도록 되어 있어요.	B: I'm sorry, you are requested to abstain from using it through the flight. 
 A: 아, 알겠습니다.	A: Oh, I see. 
@@ -79,8 +72,7 @@ B: 아... 아뇨.... 비행기 멀미가 나는데요.	B: No, no.. I have airsic
 A: 약 좀 갖다 드릴까요?	A: Can I get you some pills? 
 B 오.. 아니에요... 좀 진정시킬 수 있는 방법은 없나요?	B: No.. No… Is there any way to soothe it? 
 A: 의자를 뒤로 젖히시면 어떨까요?	A: Why don't you pull down your seat? 
-B 음.. 좀 낫군요. 담요 하나 더 갖다 주실래요? 좀 쉬는 게 낫겠어요.	"B: Umm… I feel better. Can I get another blanket?
- I'd better take a rest." 
+B 음.. 좀 낫군요. 담요 하나 더 갖다 주실래요? 좀 쉬는 게 낫겠어요.	"B: Umm… I feel better. Can I get another blanket? I'd better take a rest." 
 A: 곧 갖다 드릴게요. 여기 있습니다. 다른 건요?	A: I'll bring you one in a minute. Here you are. Anything else? 
 B 고맙습니다. 기내식 나올 때 깨워 주실래요?	B: Thank you. Could you wake me up at dinner time? 
 A: 그러죠.	A: No problem. 
